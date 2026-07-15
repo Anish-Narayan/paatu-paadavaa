@@ -496,49 +496,37 @@
     const volumeIcon = document.getElementById('volume-icon');
     const muteIcon = document.getElementById('mute-icon');
 
-    // Parse directory listing generated dynamically by http.server
+    // Read the statically generated JSON file
     async function init() {
         try {
-            const response = await fetch('./songs/');
+            const response = await fetch('./songs.json');
             if (!response.ok) {
-                throw new Error("Could not access the /songs/ folder.");
+                throw new Error("Could not load songs.json. Run build script first.");
             }
-            const text = await response.text();
+            const fileNames = await response.json();
             
-            // Build temporary DOM from response HTML
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(text, 'text/html');
-            const links = Array.from(doc.querySelectorAll('a'));
-            
-            songs = links
-                .map(link => link.getAttribute('href'))
-                .filter(href => href && href.toLowerCase().endsWith('.m4a'))
-                .map(href => {
-                    const decoded = decodeURIComponent(href);
-                    const fileName = decoded.split('/').pop();
-                    // Style filename as track name (remove ext, replace underscores/hyphens with spaces)
-                    const title = fileName.replace(/\.m4a$/i, '').replace(/[_-]/g, ' ');
-                    
-                    // Construct robust path absolute to context
-                    const resolvedUrl = new URL(href, new URL('songs/', window.location.href)).toString();
-                    return {
-                        url: resolvedUrl,
-                        title: title
-                    };
-                });
+            songs = fileNames.map(fileName => {
+                const title = fileName.replace(/\.m4a$/i, '').replace(/[_-]/g, ' ');
+                // Build a safe URL to the track inside the songs folder
+                const resolvedUrl = new URL(`songs/${encodeURIComponent(fileName)}`, window.location.href).toString();
+                return {
+                    url: resolvedUrl,
+                    title: title
+                };
+            });
 
             if (songs.length === 0) {
-                playlistEl.innerHTML = `<div class="empty-state">No <code>.m4a</code> files found in the <code>songs/</code> folder.<br>Add some music and refresh!</div>`;
+                playlistEl.innerHTML = `<div class="empty-state">No <code>.m4a</code> files found in the <code>songs/</code> folder.<br>Add some music, run the build script, and deploy!</div>`;
                 return;
             }
 
             renderPlaylist();
-            loadTrack(0, false); // Initialize with the first track without playing
+            loadTrack(0, false); 
             updateSliderBackground(progressBar);
             updateSliderBackground(volumeBar);
         } catch (err) {
             console.error(err);
-            playlistEl.innerHTML = `<div class="empty-state">Unable to load music. Ensure you have created a <code>songs/</code> folder alongside this HTML file and added <code>.m4a</code> tracks.</div>`;
+            playlistEl.innerHTML = `<div class="empty-state">Unable to load music. Ensure the build script generated <code>songs.json</code> correctly.</div>`;
         }
     }
 
@@ -570,7 +558,6 @@
         audio.src = track.url;
         audio.load();
 
-        // Update CSS classes
         document.querySelectorAll('.playlist-item').forEach((item, idx) => {
             if (idx === currentIndex) {
                 item.classList.add('active');
@@ -580,10 +567,9 @@
             }
         });
 
-        // Update Titles
         playerTrackName.textContent = track.title;
         jumboTitle.textContent = track.title;
-        jumboSubtitle.textContent = "Playing from your local library";
+        jumboSubtitle.textContent = "Playing from library";
 
         progressBar.value = 0;
         updateSliderBackground(progressBar);
@@ -604,7 +590,7 @@
                 pauseIcon.style.display = 'block';
             })
             .catch(err => {
-                console.log("Playback failed (usually blocked due to browser autoplay protection). Press play manually.", err);
+                console.log("Playback interrupted. Press play manually.", err);
             });
     }
 
@@ -632,7 +618,7 @@
             loadTrack(randomIndex, true);
         } else {
             let nextIndex = currentIndex + 1;
-            if (nextIndex >= songs.length) nextIndex = 0; // Wrap back to first track
+            if (nextIndex >= songs.length) nextIndex = 0;
             loadTrack(nextIndex, true);
         }
     }
@@ -640,17 +626,15 @@
     function prevTrack() {
         if (songs.length === 0) return;
         let prevIndex = currentIndex - 1;
-        if (prevIndex < 0) prevIndex = songs.length - 1; // Wrap back to final track
+        if (prevIndex < 0) prevIndex = songs.length - 1;
         loadTrack(prevIndex, true);
     }
 
-    // Modern slider tracking color helper
     function updateSliderBackground(slider) {
         const val = (slider.value - slider.min) / (slider.max - slider.min) * 100;
         slider.style.background = `linear-gradient(to right, #1db954 ${val}%, #535353 ${val}%)`;
     }
 
-    // Audio Event Handlers
     audio.addEventListener('timeupdate', () => {
         if (!isNaN(audio.duration)) {
             const progress = (audio.currentTime / audio.duration) * 100;
@@ -682,7 +666,6 @@
         }
     });
 
-    // Volume Event Handlers
     volumeBar.addEventListener('input', () => {
         const vol = volumeBar.value / 100;
         audio.volume = vol;
@@ -713,7 +696,6 @@
         }
     });
 
-    // Option toggles
     btnShuffle.addEventListener('click', () => {
         isShuffle = !isShuffle;
         btnShuffle.classList.toggle('active-state', isShuffle);
@@ -734,12 +716,11 @@
         return `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
     }
 
-    // OS/Lock-screen Media Controls Integrations
     if ('mediaSession' in navigator) {
         audio.addEventListener('play', () => {
             navigator.mediaSession.metadata = new MediaMetadata({
                 title: songs[currentIndex]?.title || 'Web Music Track',
-                artist: 'Local Library'
+                artist: 'Library'
             });
             navigator.mediaSession.playbackState = 'playing';
         });
@@ -752,7 +733,6 @@
         navigator.mediaSession.setActionHandler('nexttrack', nextTrack);
     }
 
-    // Keyboard Hotkey Actions
     window.addEventListener('keydown', (e) => {
         if (e.code === 'Space') {
             e.preventDefault();
@@ -764,7 +744,6 @@
         }
     });
 
-    // Start scanning folders
     init();
 </script>
 </body>
