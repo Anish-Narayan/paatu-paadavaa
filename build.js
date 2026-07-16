@@ -1,53 +1,65 @@
 const fs = require('fs');
 const path = require('path');
 
-const songsDir = path.join(__dirname, 'songs');
-const publicDir = path.join(__dirname, 'public');
-const destSongsDir = path.join(publicDir, 'songs');
+const SONGS_DIR = path.join(__dirname, 'songs');
+const OUTPUT_FILE = path.join(__dirname, 'songs.json');
 
-try {
-  // 1. Create the public output directory if it doesn't exist
-  if (!fs.existsSync(publicDir)) {
-    fs.mkdirSync(publicDir, { recursive: true });
-  }
+// Supported audio extensions
+const SUPPORTED_EXTENSIONS = ['.m4a', '.mp3', '.ogg', '.wav'];
 
-  // 2. Copy index.html into the public directory for Vercel
-  const indexSrc = path.join(__dirname, 'index.html');
-  const indexDest = path.join(publicDir, 'index.html');
-  if (fs.existsSync(indexSrc)) {
-    fs.copyFileSync(indexSrc, indexDest);
-  } else {
-    console.error("Error: index.html not found in root directory!");
-    process.exit(1);
-  }
-
-  // 3. Scan the source songs folder and copy assets
-  if (fs.existsSync(songsDir)) {
-    if (!fs.existsSync(destSongsDir)) {
-      fs.mkdirSync(destSongsDir, { recursive: true });
+function buildPlaylistRegistry() {
+    if (!fs.existsSync(SONGS_DIR)) {
+        console.log(`Creating directory: ${SONGS_DIR}`);
+        fs.mkdirSync(SONGS_DIR);
     }
 
-    const files = fs.readdirSync(songsDir);
-    const m4aFiles = files.filter(file => file.toLowerCase().endsWith('.m4a'));
+    const registry = {
+        "Library": [] // Root level songs
+    };
 
-    // Copy each .m4a file to public/songs/ for Vercel
-    m4aFiles.forEach(file => {
-      fs.copyFileSync(path.join(songsDir, file), path.join(destSongsDir, file));
-    });
+    function scanDir(dirPath, currentPlaylistName) {
+        const items = fs.readdirSync(dirPath, { withFileTypes: true });
 
-    // Write songs.json to the ROOT directory (so local Python servers continue working)
-    fs.writeFileSync(path.join(__dirname, 'songs.json'), JSON.stringify(m4aFiles, null, 2));
+        for (const item of items) {
+            const fullPath = path.join(dirPath, item.name);
+            
+            if (item.isDirectory()) {
+                // Directories inside songs/ represent distinct playlists
+                const playlistName = item.name;
+                if (!registry[playlistName]) {
+                    registry[playlistName] = [];
+                }
+                scanDir(fullPath, playlistName);
+            } else if (item.isFile()) {
+                const ext = path.extname(item.name).toLowerCase();
+                if (SUPPORTED_EXTENSIONS.includes(ext)) {
+                    // Calculate relative path inside songs/ directory
+                    const relativePath = path.relative(SONGS_DIR, fullPath).replace(/\\/g, '/');
+                    const cleanTitle = item.name.replace(ext, '').replace(/[_-]/g, ' ');
+                    
+                    const songData = {
+                        title: cleanTitle,
+                        url: `songs/${relativePath}`,
+                        fileName: item.name
+                    };
 
-    // Write songs.json to the PUBLIC directory (for Vercel deployment)
-    fs.writeFileSync(path.join(publicDir, 'songs.json'), JSON.stringify(m4aFiles, null, 2));
+                    registry[currentPlaylistName].push(songData);
+                }
+            }
+        }
+    }
 
-    console.log(`Successfully bundled ${m4aFiles.length} songs for Vercel deployment.`);
-  } else {
-    console.warn("Warning: 'songs/' directory not found. Creating empty playlist configurations.");
-    fs.writeFileSync(path.join(__dirname, 'songs.json'), JSON.stringify([]));
-    fs.writeFileSync(path.join(publicDir, 'songs.json'), JSON.stringify([]));
-  }
-} catch (err) {
-  console.error("Build failed during bundling:", err);
-  process.exit(1);
+    scanDir(SONGS_DIR, "Library");
+
+    // Clean up empty folders in registry
+    for (const key in registry) {
+        if (registry[key].length === 0 && key !== "Library") {
+            delete registry[key];
+        }
+    }
+
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(registry, null, 2), 'utf-8');
+    console.log(`Registry built successfully. Found ${Object.keys(registry).length} playlists written to ${OUTPUT_FILE}`);
 }
+
+buildPlaylistRegistry();

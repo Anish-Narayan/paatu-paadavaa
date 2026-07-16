@@ -1,0 +1,907 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    height: 100vh;
+    overflow: hidden;
+    user-select: none;
+}
+
+#app-wrapper {
+    height: 100vh;
+    width: 100vw;
+}
+
+/* ================================================================= */
+/* STATE CLASSIFICATIONS (SWITCHING VIEWS)                           */
+/* ================================================================= */
+#app-wrapper.standard-view .excel-only {
+    display: none !important;
+}
+
+#app-wrapper.excel-view .standard-only {
+    display: none !important;
+}
+
+/* ================================================================= */
+/* STANDARD DARK THEME WEB MUSIC PLAYER STYLING                      */
+/* ================================================================= */
+.app-container {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    grid-template-rows: 1fr 90px;
+    height: 100vh;
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.sidebar {
+    background-color: #000000;
+    padding: 24px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    overflow-y: auto;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    padding-left: 8px;
+    margin-bottom: 10px;
+}
+
+.stealth-switch-btn {
+    background-color: #282828;
+    color: #ffffff;
+    border: 1px solid #3e3e3e;
+    padding: 10px 14px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.stealth-switch-btn:hover {
+    background-color: #1db954;
+    color: #000000;
+    border-color: #1db954;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    color: #b3b3b3;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: color 0.2s, background-color 0.2s;
+}
+
+.menu-item:hover, .menu-item.active {
+    color: #ffffff;
+}
+
+.menu-item.active {
+    background-color: #282828;
+}
+
+.playlist-section {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    flex-grow: 1;
+    border-top: 1px solid #282828;
+    padding-top: 16px;
+    overflow-y: auto;
+}
+
+.section-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #a7a7a7;
+    font-weight: bold;
+    padding-left: 12px;
+}
+
+.playlist-list {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.playlist-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    color: #b3b3b3;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.playlist-item:hover {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.playlist-item.active {
+    background-color: #282828;
+    color: #1db954;
+}
+
+/* Main Window Area Styling */
+.main-content {
+    background: linear-gradient(to bottom, #1e1e1e 0%, #121212 100%);
+    padding: 32px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.now-playing-jumbo {
+    display: flex;
+    align-items: flex-end;
+    gap: 28px;
+    max-width: 900px;
+    width: 100%;
+}
+
+.album-art-large {
+    width: 200px;
+    height: 200px;
+    background-color: #282828;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #535353;
+}
+
+.track-details {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.type-label {
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #1db954;
+}
+
+#jumbo-title {
+    font-size: 38px;
+    font-weight: 850;
+    line-height: 1.1;
+}
+
+#jumbo-subtitle {
+    font-size: 14px;
+    color: #b3b3b3;
+}
+
+/* Tracks Table inside Spotify-Theme */
+.track-list-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    width: 100%;
+}
+
+.track-list-header {
+    display: flex;
+    border-bottom: 1px solid #3e3e3e;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+    font-size: 12px;
+    color: #b3b3b3;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.col-num { width: 40px; text-align: center; }
+.col-title { flex: 1; padding-left: 12px; }
+.col-source { width: 300px; text-align: left; }
+
+.songs-list {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.song-row {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    color: #b3b3b3;
+}
+
+.song-row:hover {
+    background-color: rgba(255,255,255,0.08);
+    color: #ffffff;
+}
+
+.song-row.active {
+    color: #1db954;
+}
+
+.song-row.active .row-title {
+    color: #1db954;
+}
+
+.row-index {
+    width: 40px;
+    text-align: center;
+}
+
+.row-title {
+    flex: 1;
+    font-weight: 500;
+    color: #ffffff;
+    padding-left: 12px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.row-source {
+    width: 300px;
+    font-size: 12px;
+    color: #888;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Footer Player Bar Styling */
+.player-bar {
+    grid-column: 1 / span 2;
+    background-color: #181818;
+    border-top: 1px solid #282828;
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+    align-items: center;
+    padding: 0 24px;
+}
+
+.now-playing-bar-left {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.mini-art {
+    width: 56px;
+    height: 56px;
+    background-color: #282828;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #a7a7a7;
+}
+
+.track-info {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.track-name {
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.track-artist {
+    font-size: 12px;
+    color: #b3b3b3;
+}
+
+.now-playing-bar-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.control-btn {
+    background: none;
+    border: none;
+    color: #b3b3b3;
+    cursor: pointer;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.2s, transform 0.1s;
+}
+
+.control-btn:hover {
+    color: #ffffff;
+}
+
+.control-btn:active {
+    transform: scale(0.95);
+}
+
+.play-pause-btn {
+    background-color: #ffffff;
+    color: #000000;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+}
+
+.play-pause-btn:hover {
+    background-color: #f0f0f0;
+    transform: scale(1.05);
+}
+
+.control-btn.active-state {
+    color: #1db954;
+}
+
+.progress-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+}
+
+.time {
+    font-size: 11px;
+    color: #b3b3b3;
+    width: 40px;
+}
+
+#time-current { text-align: right; }
+#time-duration { text-align: left; }
+
+.now-playing-bar-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.volume-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 140px;
+}
+
+.control-btn-volume {
+    background: none;
+    border: none;
+    color: #b3b3b3;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+}
+
+.control-btn-volume:hover {
+    color: #ffffff;
+}
+
+/* Custom sliders standard layout */
+input[type="range"] {
+    -webkit-appearance: none;
+    background: linear-gradient(to right, #1db954 0%, #535353 0%);
+    border-radius: 4px;
+    height: 4px;
+    outline: none;
+    cursor: pointer;
+    width: 100%;
+    transition: background 0.1s;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #fff;
+    opacity: 0;
+    transition: opacity 0.1s;
+}
+
+input[type="range"]:hover::-webkit-slider-thumb {
+    opacity: 1;
+}
+
+input[type="range"]::-moz-range-track {
+    background: transparent;
+}
+
+input[type="range"]::-moz-range-thumb {
+    width: 12px;
+    height: 12px;
+    border: none;
+    border-radius: 50%;
+    background: #fff;
+    opacity: 0;
+    transition: opacity 0.1s;
+}
+
+input[type="range"]:hover::-moz-range-thumb {
+    opacity: 1;
+}
+
+.loading, .empty-state {
+    padding: 20px;
+    text-align: center;
+    color: #b3b3b3;
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.empty-state code {
+    background-color: #282828;
+    padding: 2px 6px;
+    border-radius: 4px;
+    color: #1db954;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #555;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #888;
+}
+
+
+/* ================================================================= */
+/* STEALTH EXCEL WORKSPACE CSS THEMING                               */
+/* ================================================================= */
+.excel-container {
+    background-color: #f3f3f3;
+    color: #333333;
+    font-family: Calibri, 'Segoe UI', Arial, sans-serif;
+    font-size: 11pt;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.excel-titlebar {
+    background-color: #107c41; /* Microsoft Excel Green */
+    color: #ffffff;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    font-size: 9pt;
+}
+
+.excel-logo {
+    font-size: 12pt;
+    margin-right: 6px;
+}
+
+.excel-doc-title {
+    font-weight: normal;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.excel-title-controls span {
+    padding: 4px 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.excel-title-controls span:hover {
+    background-color: #0b592e;
+}
+
+#excel-close-to-standard:hover {
+    background-color: #e81123 !important; /* Close red */
+}
+
+/* Excel Ribbon System Layout */
+.excel-ribbon-tabs {
+    background-color: #107c41;
+    color: #ffffff;
+    display: flex;
+    padding-left: 20px;
+    font-size: 10pt;
+    border-bottom: 1px solid #dedede;
+}
+
+.ribbon-tab {
+    padding: 6px 14px;
+    cursor: pointer;
+    border-radius: 2px 2px 0 0;
+}
+
+.ribbon-tab:hover {
+    background-color: #185f36;
+}
+
+.ribbon-tab.active {
+    background-color: #f3f3f3;
+    color: #107c41;
+    font-weight: 600;
+}
+
+.theme-switch-tab {
+    background-color: #a4373a;
+    color: white;
+    font-weight: bold;
+}
+
+.theme-switch-tab:hover {
+    background-color: #8c2e30;
+}
+
+/* Excel toolbar actions command panel */
+.excel-ribbon-actions {
+    background-color: #f3f3f3;
+    border-bottom: 1px solid #dedede;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    padding: 4px 12px;
+    gap: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.ribbon-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.group-label {
+    font-size: 8pt;
+    color: #777777;
+    margin-top: auto;
+}
+
+.ribbon-buttons {
+    display: flex;
+    gap: 4px;
+}
+
+.ribbon-btn {
+    background: none;
+    border: 1px solid transparent;
+    padding: 2px 8px;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    color: #333333;
+}
+
+.ribbon-btn:hover {
+    background-color: #e1dfdd;
+    border-color: #c8c6c4;
+}
+
+.ribbon-btn-icon {
+    font-size: 14pt;
+    color: #107c41;
+    line-height: 1;
+}
+
+.ribbon-btn-text {
+    font-size: 7.5pt;
+    color: #333333;
+    margin-top: 2px;
+}
+
+.ribbon-btn.active-state {
+    background-color: #c8c6c4;
+    border-color: #a19f9d;
+}
+
+.ribbon-divider {
+    width: 1px;
+    background-color: #dedede;
+    height: 80%;
+}
+
+/* Alignment group styles */
+.alignment-group .align-grid {
+    display: flex;
+    gap: 6px;
+    padding: 2px;
+}
+
+.align-tool {
+    font-size: 11pt;
+    padding: 2px 6px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.align-tool:hover {
+    background-color: #e1dfdd;
+    border-color: #c8c6c4;
+}
+
+.align-tool.font-bold {
+    font-size: 8pt;
+    font-weight: bold;
+}
+
+/* Formula Row Styling */
+.excel-formula-bar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #d4d4d4;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    padding: 0 4px;
+    font-size: 9pt;
+}
+
+.excel-address {
+    width: 60px;
+    border-right: 1px solid #d4d4d4;
+    text-align: center;
+    font-weight: bold;
+    color: #555;
+}
+
+.excel-fx-label {
+    width: 30px;
+    text-align: center;
+    font-style: italic;
+    color: #888888;
+    font-weight: bold;
+}
+
+.excel-formula {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    padding: 2px 8px;
+    font-family: Consolas, monospace;
+    font-size: 9.5pt;
+    color: #107c41;
+}
+
+/* Excel Workspace Spreadsheet View */
+.excel-grid-viewport {
+    flex-grow: 1;
+    overflow: auto;
+    background-color: #ffffff;
+}
+
+.excel-table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.excel-table th, .excel-table td {
+    border: 1px solid #dedede;
+    padding: 4px 8px;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 9.5pt;
+}
+
+/* Row Headers & Sidebars indicators */
+.row-num-col {
+    background-color: #f3f3f3 !important;
+    border: 1px solid #dedede !important;
+    width: 40px !important;
+    text-align: center !important;
+    color: #666666 !important;
+    font-weight: normal !important;
+}
+
+.excel-table th {
+    background-color: #f3f3f3;
+    font-weight: normal;
+    color: #555555;
+    text-align: center;
+}
+
+.excel-table tr.table-headers th {
+    background-color: #e1dfdd;
+    font-weight: bold;
+    color: #333333;
+    border-bottom: 2px solid #a19f9d;
+    text-align: left;
+}
+
+.excel-table tbody tr {
+    cursor: default;
+}
+
+.excel-table tbody tr:hover {
+    background-color: #f3f2f1;
+}
+
+/* Disguised cell selected indicator highlight styles */
+.excel-table tbody tr.active {
+    background-color: #e2f0d9 !important; /* Soft Green Excel Highlight Row */
+}
+
+.excel-table tbody tr.active td {
+    border-top: 1.5px solid #107c41 !important;
+    border-bottom: 1.5px solid #107c41 !important;
+}
+
+.excel-table tbody tr.active td:first-child {
+    border-left: 1.5px solid #107c41 !important;
+}
+
+.excel-status-playing {
+    color: #107c41;
+    font-weight: bold;
+}
+
+.excel-status-paused {
+    color: #a4373a;
+    font-style: italic;
+}
+
+.excel-status-idle {
+    color: #666666;
+}
+
+/* Bottom Sheets Tabs Bar Layout */
+.excel-sheet-tabs-container {
+    background-color: #f3f3f3;
+    border-top: 1px solid #dedede;
+    border-bottom: 1px solid #dedede;
+    height: 28px;
+    display: flex;
+    align-items: center;
+}
+
+.excel-sheet-nav {
+    display: flex;
+    border-right: 1px solid #dedede;
+    height: 100%;
+    align-items: center;
+}
+
+.excel-sheet-nav span {
+    padding: 0 10px;
+    font-size: 8pt;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.excel-sheet-nav span:hover {
+    background-color: #dedede;
+}
+
+.excel-tabs-list {
+    display: flex;
+    height: 100%;
+}
+
+.excel-tab-item {
+    padding: 0 16px;
+    font-size: 9pt;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    background-color: #f3f3f3;
+    border-right: 1px solid #dedede;
+    color: #333333;
+    position: relative;
+}
+
+.excel-tab-item.active {
+    background-color: #ffffff;
+    font-weight: bold;
+    color: #107c41;
+}
+
+.excel-tab-item.active::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: #107c41;
+}
+
+/* Status Bar inside Excel Theme */
+.excel-statusbar {
+    background-color: #107c41;
+    color: #ffffff;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 12px;
+    font-size: 8.5pt;
+}
+
+.status-left, .status-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.status-indicator-pipe {
+    opacity: 0.6;
+}
+
+.excel-volume-slider {
+    width: 100px !important;
+    height: 3px !important;
+    background: #e1dfdd !important;
+    -webkit-appearance: none !important;
+    cursor: pointer;
+}
+
+.excel-volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 10px;
+    height: 10px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    opacity: 1 !important;
+}
