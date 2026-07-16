@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "build": "node build.js"
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.33.0",
+    "dotenv": "^17.4.2"
   }
 }
