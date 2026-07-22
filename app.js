@@ -13,6 +13,9 @@ let isRepeat = false;
 let shuffleQueue = [];
 let previousVolume = 0.8;
 
+// Earphone detection state tracking
+let isPermissionGranted = false;
+
 // DOM References - Standard Theme UI
 const wrapperEl = document.getElementById('app-wrapper');
 const playlistTabs = document.getElementById('playlist-tabs');
@@ -288,17 +291,105 @@ function loadTrack(index, shouldPlay = true) {
     }
 }
 
-function playTrack() {
+// -----------------------------------------------------------------
+// COMPREHENSIVE AUDIO DEVICE IDENTIFICATION & FILTERING
+// -----------------------------------------------------------------
+
+async function requestMediaPermission() {
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        isPermissionGranted = true;
+        // Close mic input instantly to disable active recording indicator
+        stream.getTracks().forEach(track => track.stop());
+    } catch (err) {
+        console.warn("Permissions dismissed. Verification check will rely on generic profiles.", err);
+    }
+}
+
+async function checkEarphonesConnected() {
+    if (!navigator.mediaDevices || !navigator.mediaDevices.enumerateDevices) {
+        console.warn("MediaDevices API is unsupported in this browser.");
+        return true; // Graceful fallback
+    }
+
+    try {
+        let devices = await navigator.mediaDevices.enumerateDevices();
+        
+        // Request descriptor labels if empty
+        const hasUnlabeledDevices = devices.some(device => device.label === "");
+        if (hasUnlabeledDevices && !isPermissionGranted) {
+            await requestMediaPermission();
+            devices = await navigator.mediaDevices.enumerateDevices(); // Refreshed list
+        }
+
+        // Print telemetry to the console to assist in tracking device connection states
+        console.log("--- Connected Audio Hardware Log ---");
+        devices.forEach(device => {
+            console.log(`[${device.kind}] Name: "${device.label || 'Unknown device'}" | ID: ${device.deviceId}`);
+        });
+
+        // Filter active audio input and output channels
+        const audioDevices = devices.filter(device => device.kind === 'audiooutput' || device.kind === 'audioinput');
+        
+        // Explicit patterns that specify external/wireless output nodes
+        const earphoneKeywords = [
+            'headphone', 'headset', 'earphone', 'bluetooth', 
+            'airpod', 'buds', 'hfp', 'a2dp', 'hands-free', 'wireless', 'handsfree',
+            'stereo', 'earpiece', 'jack', 'external'
+        ];
+
+        // Explicit patterns that correspond strictly to built-in system hardware
+        const internalKeywords = [
+            'speaker', 'internal', 'built-in', 'system', 'integrated', 
+            'hdmi', 'displayport', 'display audio', 'monitor', 'tv',
+            'array', 'realtek', 'intel', 'amd', 'conexant', 'stereo mix', 
+            'microphone', 'mic', 'high definition'
+        ];
+
+        const hasMatchingLabel = audioDevices.some(device => {
+            const label = device.label.toLowerCase();
+            if (!label || label === "default") return false;
+
+            // 1. Direct positive identifier match
+            const matchesEarphone = earphoneKeywords.some(keyword => label.includes(keyword));
+            if (matchesEarphone) return true;
+
+            // 2. Exclusion check (Non-internal devices with custom device names)
+            const isInternal = internalKeywords.some(keyword => label.includes(keyword));
+            if (!isInternal) {
+                // Device is not an internal system node (indicates external Bluetooth, USB or custom hardware)
+                return true;
+            }
+            
+            return false;
+        });
+
+        console.log(`Earphone Check Result: ${hasMatchingLabel ? "CONNECTED" : "DISCONNECTED"}`);
+        return hasMatchingLabel;
+    } catch (err) {
+        console.error("Hardware audit error: ", err);
+        return true; // Fallback to let the user play if API completely fails
+    }
+}
+
+async function playTrack() {
+    const connected = await checkEarphonesConnected();
+    
+    if (!connected) {
+        alert("Playback Prevented: Please connect wired or Bluetooth earphones to play.");
+        pauseTrack();
+        applyVolume(0); 
+        return;
+    }
+
     audio.play()
         .then(() => {
-            // Icon layout adjustments
             playIcon.style.display = 'none';
             pauseIcon.style.display = 'block';
             excelPlaySymbol.textContent = "⏸";
             excelPlayText.textContent = "Pause Log";
             excelRunningStat.textContent = `Executing Node: ${currentIndex + 1} (${currentPlaylistSongs[currentIndex]?.title})`;
             
-            // Adjust status cells labels
             updateActiveExcelRowStatus("RUNNING");
         })
         .catch(err => {
@@ -364,11 +455,9 @@ function prevTrack() {
     if (currentPlaylistSongs.length === 0) return;
 
     if (playbackHistory.length > 0) {
-        // Trace back step sequences properly
         const prevIdx = playbackHistory.pop();
         loadTrack(prevIdx, true);
     } else {
-        // Fallback default index sequences
         let prevIndex = currentIndex - 1;
         if (prevIndex < 0) prevIndex = currentPlaylistSongs.length - 1;
         loadTrack(prevIndex, true);
@@ -545,6 +634,21 @@ window.addEventListener('keydown', (e) => {
         audio.currentTime = Math.max(0, audio.currentTime - 5);
     }
 });
+
+// Monitor hardware device plug/unplug events
+if (navigator.mediaDevices && navigator.mediaDevices.addEventListener) {
+    navigator.mediaDevices.addEventListener('devicechange', async () => {
+        // Delay checking by 800ms to allow browser hardware cache to fully drop the device
+        setTimeout(async () => {
+            const connected = await checkEarphonesConnected();
+            if (!connected && !audio.paused) {
+                pauseTrack();
+                applyVolume(0); 
+                alert("Earphones disconnected. Playback paused and audio muted.");
+            }
+        }, 800);
+    });
+}
 
 // Run Initializer
 init();
