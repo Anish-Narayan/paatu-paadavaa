@@ -1,504 +1,2660 @@
 {
   "Library": [
     {
-      "title": "A.R. Rahman   New York Nagaram",
+      "title": "A.R. Rahman   New York Nagaram (Local)",
       "url": "songs/A.R. Rahman - New York Nagaram.m4a",
+      "localUrl": "songs/A.R. Rahman - New York Nagaram.m4a",
       "fileName": "A.R. Rahman - New York Nagaram.m4a"
     },
     {
-      "title": "A.R. Rahman, Abhay Jodhpurkar, Harini, Vairamuthu   Moongil Thottam",
+      "title": "A.R. Rahman, Abhay Jodhpurkar, Harini, Vairamuthu   Moongil Thottam (Local)",
       "url": "songs/A.R. Rahman, Abhay Jodhpurkar, Harini, Vairamuthu - Moongil Thottam.m4a",
+      "localUrl": "songs/A.R. Rahman, Abhay Jodhpurkar, Harini, Vairamuthu - Moongil Thottam.m4a",
       "fileName": "A.R. Rahman, Abhay Jodhpurkar, Harini, Vairamuthu - Moongil Thottam.m4a"
     },
     {
-      "title": "A.R. Rahman, Arijit Singh, Chinmayi, Madhan Karky   Naan Un",
+      "title": "A.R. Rahman, Arijit Singh, Chinmayi, Madhan Karky   Naan Un (Local)",
       "url": "songs/A.R. Rahman, Arijit Singh, Chinmayi, Madhan Karky - Naan Un.m4a",
+      "localUrl": "songs/A.R. Rahman, Arijit Singh, Chinmayi, Madhan Karky - Naan Un.m4a",
       "fileName": "A.R. Rahman, Arijit Singh, Chinmayi, Madhan Karky - Naan Un.m4a"
     },
     {
-      "title": "A.R. Rahman, Arjun Chandy, Haricharan, Jonita Gandhi, Madhan Karky   Azhagiye (From 'Kaatru Veliyidai')",
+      "title": "A.R. Rahman, Arjun Chandy, Haricharan, Jonita Gandhi, Madhan Karky   Azhagiye (From 'Kaatru Veliyidai') (Local)",
       "url": "songs/A.R. Rahman, Arjun Chandy, Haricharan, Jonita Gandhi, Madhan Karky - Azhagiye (From 'Kaatru Veliyidai').m4a",
+      "localUrl": "songs/A.R. Rahman, Arjun Chandy, Haricharan, Jonita Gandhi, Madhan Karky - Azhagiye (From 'Kaatru Veliyidai').m4a",
       "fileName": "A.R. Rahman, Arjun Chandy, Haricharan, Jonita Gandhi, Madhan Karky - Azhagiye (From 'Kaatru Veliyidai').m4a"
     },
     {
-      "title": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan, Vairamuthu   Aaruyire (From 'Guru')",
+      "title": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan, Vairamuthu   Aaruyire (From 'Guru') (Local)",
       "url": "songs/A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan, Vairamuthu - Aaruyire (From 'Guru').m4a",
+      "localUrl": "songs/A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan, Vairamuthu - Aaruyire (From 'Guru').m4a",
       "fileName": "A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan, Vairamuthu - Aaruyire (From 'Guru').m4a"
     },
     {
-      "title": "A.R. Rahman, Chinmayi, Sathyaprakash, Vairamuthu   Nallai Allai",
+      "title": "A.R. Rahman, Chinmayi, Sathyaprakash, Vairamuthu   Nallai Allai (Local)",
       "url": "songs/A.R. Rahman, Chinmayi, Sathyaprakash, Vairamuthu - Nallai Allai.m4a",
+      "localUrl": "songs/A.R. Rahman, Chinmayi, Sathyaprakash, Vairamuthu - Nallai Allai.m4a",
       "fileName": "A.R. Rahman, Chinmayi, Sathyaprakash, Vairamuthu - Nallai Allai.m4a"
     },
     {
-      "title": "A.R. Rahman, Chinmayi, Vijay Prakash   Netru Aval Irundhaal",
+      "title": "A.R. Rahman, Chinmayi, Vijay Prakash   Netru Aval Irundhaal (Local)",
       "url": "songs/A.R. Rahman, Chinmayi, Vijay Prakash - Netru Aval Irundhaal.m4a",
+      "localUrl": "songs/A.R. Rahman, Chinmayi, Vijay Prakash - Netru Aval Irundhaal.m4a",
       "fileName": "A.R. Rahman, Chinmayi, Vijay Prakash - Netru Aval Irundhaal.m4a"
     },
     {
-      "title": "A.R. Rahman, Haricharan, Shreya Ghoshal, Madhan Karky   Pookkalae Sattru Oyivedungal",
+      "title": "A.R. Rahman, Haricharan, Shreya Ghoshal, Madhan Karky   Pookkalae Sattru Oyivedungal (Local)",
       "url": "songs/A.R. Rahman, Haricharan, Shreya Ghoshal, Madhan Karky - Pookkalae Sattru Oyivedungal.m4a",
+      "localUrl": "songs/A.R. Rahman, Haricharan, Shreya Ghoshal, Madhan Karky - Pookkalae Sattru Oyivedungal.m4a",
       "fileName": "A.R. Rahman, Haricharan, Shreya Ghoshal, Madhan Karky - Pookkalae Sattru Oyivedungal.m4a"
     },
     {
-      "title": "A.R. Rahman, Haricharan, Vairamuthu   Manamaganin Sathiyam",
+      "title": "A.R. Rahman, Haricharan, Vairamuthu   Manamaganin Sathiyam (Local)",
       "url": "songs/A.R. Rahman, Haricharan, Vairamuthu - Manamaganin Sathiyam.m4a",
+      "localUrl": "songs/A.R. Rahman, Haricharan, Vairamuthu - Manamaganin Sathiyam.m4a",
       "fileName": "A.R. Rahman, Haricharan, Vairamuthu - Manamaganin Sathiyam.m4a"
     },
     {
-      "title": "A.R. Rahman, Hariharan, Haricharan, Pooja   Unnaal Unnaal",
+      "title": "A.R. Rahman, Hariharan, Haricharan, Pooja   Unnaal Unnaal (Local)",
       "url": "songs/A.R. Rahman, Hariharan, Haricharan, Pooja - Unnaal Unnaal.m4a",
+      "localUrl": "songs/A.R. Rahman, Hariharan, Haricharan, Pooja - Unnaal Unnaal.m4a",
       "fileName": "A.R. Rahman, Hariharan, Haricharan, Pooja - Unnaal Unnaal.m4a"
     },
     {
-      "title": "A.R. Rahman, Karthik, Vairamuthu   Usure Pogudhey",
+      "title": "A.R. Rahman, Karthik, Vairamuthu   Usure Pogudhey (Local)",
       "url": "songs/A.R. Rahman, Karthik, Vairamuthu - Usure Pogudhey.m4a",
+      "localUrl": "songs/A.R. Rahman, Karthik, Vairamuthu - Usure Pogudhey.m4a",
       "fileName": "A.R. Rahman, Karthik, Vairamuthu - Usure Pogudhey.m4a"
     },
     {
-      "title": "A.R. Rahman, Naresh Iyer, Vairamuthu   Ambikapathy",
+      "title": "A.R. Rahman, Naresh Iyer, Vairamuthu   Ambikapathy (Local)",
       "url": "songs/A.R. Rahman, Naresh Iyer, Vairamuthu - Ambikapathy.m4a",
+      "localUrl": "songs/A.R. Rahman, Naresh Iyer, Vairamuthu - Ambikapathy.m4a",
       "fileName": "A.R. Rahman, Naresh Iyer, Vairamuthu - Ambikapathy.m4a"
     },
     {
-      "title": "A.R. Rahman, Shreya Ghoshal, Naresh Iyer   Munbe Vaa",
+      "title": "A.R. Rahman, Shreya Ghoshal, Naresh Iyer   Munbe Vaa (Local)",
       "url": "songs/A.R. Rahman, Shreya Ghoshal, Naresh Iyer - Munbe Vaa.m4a",
+      "localUrl": "songs/A.R. Rahman, Shreya Ghoshal, Naresh Iyer - Munbe Vaa.m4a",
       "fileName": "A.R. Rahman, Shreya Ghoshal, Naresh Iyer - Munbe Vaa.m4a"
     },
     {
-      "title": "A.R. Rahman, Shreya Ghoshal, Thamarai   Mannipaaya",
+      "title": "A.R. Rahman, Shreya Ghoshal, Thamarai   Mannipaaya (Local)",
       "url": "songs/A.R. Rahman, Shreya Ghoshal, Thamarai - Mannipaaya.m4a",
+      "localUrl": "songs/A.R. Rahman, Shreya Ghoshal, Thamarai - Mannipaaya.m4a",
       "fileName": "A.R. Rahman, Shreya Ghoshal, Thamarai - Mannipaaya.m4a"
     },
     {
-      "title": "A.R. Rahman, Sid Sriram, Aaryan Dinesh Kanagaratnam   Thalli Pogathey",
+      "title": "A.R. Rahman, Sid Sriram, Aaryan Dinesh Kanagaratnam   Thalli Pogathey (Local)",
       "url": "songs/A.R. Rahman, Sid Sriram, Aaryan Dinesh Kanagaratnam - Thalli Pogathey.m4a",
+      "localUrl": "songs/A.R. Rahman, Sid Sriram, Aaryan Dinesh Kanagaratnam - Thalli Pogathey.m4a",
       "fileName": "A.R. Rahman, Sid Sriram, Aaryan Dinesh Kanagaratnam - Thalli Pogathey.m4a"
     },
     {
-      "title": "A.R. Rahman, Sid Sriram, Sanah Moidutty, Jonita Gandhi, Madhan Karky   Mei Nigara",
+      "title": "A.R. Rahman, Sid Sriram, Sanah Moidutty, Jonita Gandhi, Madhan Karky   Mei Nigara (Local)",
       "url": "songs/A.R. Rahman, Sid Sriram, Sanah Moidutty, Jonita Gandhi, Madhan Karky - Mei Nigara.m4a",
+      "localUrl": "songs/A.R. Rahman, Sid Sriram, Sanah Moidutty, Jonita Gandhi, Madhan Karky - Mei Nigara.m4a",
       "fileName": "A.R. Rahman, Sid Sriram, Sanah Moidutty, Jonita Gandhi, Madhan Karky - Mei Nigara.m4a"
     },
     {
-      "title": "A.R. Rahman, Srinivas, Na.Muthukumar   Muzhumathi",
+      "title": "A.R. Rahman, Srinivas, Na.Muthukumar   Muzhumathi (Local)",
       "url": "songs/A.R. Rahman, Srinivas, Na.Muthukumar - Muzhumathi.m4a",
+      "localUrl": "songs/A.R. Rahman, Srinivas, Na.Muthukumar - Muzhumathi.m4a",
       "fileName": "A.R. Rahman, Srinivas, Na.Muthukumar - Muzhumathi.m4a"
     },
     {
-      "title": "A.R. Rahman, Unni Menon, Sreekumar, Kavita Krishnamurthy, Vaali   Dhandiya   From 'Kadhalar Dhinam'",
+      "title": "A.R. Rahman, Unni Menon, Sreekumar, Kavita Krishnamurthy, Vaali   Dhandiya   From 'Kadhalar Dhinam' (Local)",
       "url": "songs/A.R. Rahman, Unni Menon, Sreekumar, Kavita Krishnamurthy, Vaali - Dhandiya - From 'Kadhalar Dhinam'.m4a",
+      "localUrl": "songs/A.R. Rahman, Unni Menon, Sreekumar, Kavita Krishnamurthy, Vaali - Dhandiya - From 'Kadhalar Dhinam'.m4a",
       "fileName": "A.R. Rahman, Unni Menon, Sreekumar, Kavita Krishnamurthy, Vaali - Dhandiya - From 'Kadhalar Dhinam'.m4a"
     },
     {
-      "title": "A.R. Rahman, Vairamuthu   Mazhai Kuruvi",
+      "title": "A.R. Rahman, Vairamuthu   Mazhai Kuruvi (Local)",
       "url": "songs/A.R. Rahman, Vairamuthu - Mazhai Kuruvi.m4a",
+      "localUrl": "songs/A.R. Rahman, Vairamuthu - Mazhai Kuruvi.m4a",
       "fileName": "A.R. Rahman, Vairamuthu - Mazhai Kuruvi.m4a"
     },
     {
-      "title": "Anirudh Ravichander   Kanave Kanave",
+      "title": "Anirudh Ravichander   Kanave Kanave (Local)",
       "url": "songs/Anirudh Ravichander - Kanave Kanave.m4a",
+      "localUrl": "songs/Anirudh Ravichander - Kanave Kanave.m4a",
       "fileName": "Anirudh Ravichander - Kanave Kanave.m4a"
     },
     {
-      "title": "Anirudh Ravichander   Life of Pazham (From 'Thiruchitrambalam')",
+      "title": "Anirudh Ravichander   Life of Pazham (From 'Thiruchitrambalam') (Local)",
       "url": "songs/Anirudh Ravichander - Life of Pazham (From 'Thiruchitrambalam').m4a",
+      "localUrl": "songs/Anirudh Ravichander - Life of Pazham (From 'Thiruchitrambalam').m4a",
       "fileName": "Anirudh Ravichander - Life of Pazham (From 'Thiruchitrambalam').m4a"
     },
     {
-      "title": "Anirudh Ravichander, Adithya RK, Vignesh Shivan   Bae (From 'Don')",
+      "title": "Anirudh Ravichander, Adithya RK, Vignesh Shivan   Bae (From 'Don') (Local)",
       "url": "songs/Anirudh Ravichander, Adithya RK, Vignesh Shivan - Bae (From 'Don').m4a",
+      "localUrl": "songs/Anirudh Ravichander, Adithya RK, Vignesh Shivan - Bae (From 'Don').m4a",
       "fileName": "Anirudh Ravichander, Adithya RK, Vignesh Shivan - Bae (From 'Don').m4a"
     },
     {
-      "title": "Anirudh Ravichander, Ananthakrrishnan, Sivakarthikeyan   So Baby (From 'Doctor')",
+      "title": "Anirudh Ravichander, Ananthakrrishnan, Sivakarthikeyan   So Baby (From 'Doctor') (Local)",
       "url": "songs/Anirudh Ravichander, Ananthakrrishnan, Sivakarthikeyan - So Baby (From 'Doctor').m4a",
+      "localUrl": "songs/Anirudh Ravichander, Ananthakrrishnan, Sivakarthikeyan - So Baby (From 'Doctor').m4a",
       "fileName": "Anirudh Ravichander, Ananthakrrishnan, Sivakarthikeyan - So Baby (From 'Doctor').m4a"
     },
     {
-      "title": "Anirudh Ravichander, Arjun Kanungo, Srinidhi Venkatesh, Vignesh Shivan   Sirikkadhey",
+      "title": "Anirudh Ravichander, Arjun Kanungo, Srinidhi Venkatesh, Vignesh Shivan   Sirikkadhey (Local)",
       "url": "songs/Anirudh Ravichander, Arjun Kanungo, Srinidhi Venkatesh, Vignesh Shivan - Sirikkadhey.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Arjun Kanungo, Srinidhi Venkatesh, Vignesh Shivan - Sirikkadhey.m4a",
       "fileName": "Anirudh Ravichander, Arjun Kanungo, Srinidhi Venkatesh, Vignesh Shivan - Sirikkadhey.m4a"
     },
     {
-      "title": "Anirudh Ravichander, Dhanush   Po Indru Neeyaga (From 'Velai Illa Pattadhaari')",
+      "title": "Anirudh Ravichander, Dhanush   Po Indru Neeyaga (From 'Velai Illa Pattadhaari') (Local)",
       "url": "songs/Anirudh Ravichander, Dhanush - Po Indru Neeyaga (From 'Velai Illa Pattadhaari').m4a",
+      "localUrl": "songs/Anirudh Ravichander, Dhanush - Po Indru Neeyaga (From 'Velai Illa Pattadhaari').m4a",
       "fileName": "Anirudh Ravichander, Dhanush - Po Indru Neeyaga (From 'Velai Illa Pattadhaari').m4a"
     },
     {
-      "title": "Anirudh Ravichander, Hiphop Tamizha   Pakkam Vanthu",
+      "title": "Anirudh Ravichander, Hiphop Tamizha   Pakkam Vanthu (Local)",
       "url": "songs/Anirudh Ravichander, Hiphop Tamizha - Pakkam Vanthu.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Hiphop Tamizha - Pakkam Vanthu.m4a",
       "fileName": "Anirudh Ravichander, Hiphop Tamizha - Pakkam Vanthu.m4a"
     },
     {
-      "title": "Anirudh Ravichander, Jonita Gandhi, Sivakarthikeyan   Chellamma (From 'Doctor')",
+      "title": "Anirudh Ravichander, Jonita Gandhi, Sivakarthikeyan   Chellamma (From 'Doctor') (Local)",
       "url": "songs/Anirudh Ravichander, Jonita Gandhi, Sivakarthikeyan - Chellamma (From 'Doctor').m4a",
+      "localUrl": "songs/Anirudh Ravichander, Jonita Gandhi, Sivakarthikeyan - Chellamma (From 'Doctor').m4a",
       "fileName": "Anirudh Ravichander, Jonita Gandhi, Sivakarthikeyan - Chellamma (From 'Doctor').m4a"
     },
     {
-      "title": "Anirudh Ravichander, Nakash Aziz, Inno Genga, Vivek   Ullaallaa   From 'Petta'",
+      "title": "Anirudh Ravichander, Nakash Aziz, Inno Genga, Vivek   Ullaallaa   From 'Petta' (Local)",
       "url": "songs/Anirudh Ravichander, Nakash Aziz, Inno Genga, Vivek - Ullaallaa - From 'Petta'.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Nakash Aziz, Inno Genga, Vivek - Ullaallaa - From 'Petta'.m4a",
       "fileName": "Anirudh Ravichander, Nakash Aziz, Inno Genga, Vivek - Ullaallaa - From 'Petta'.m4a"
     },
     {
-      "title": "Anirudh Ravichander, Pragathi Guruprasad, Madhan Karky   Osaka Osaka",
+      "title": "Anirudh Ravichander, Pragathi Guruprasad, Madhan Karky   Osaka Osaka (Local)",
       "url": "songs/Anirudh Ravichander, Pragathi Guruprasad, Madhan Karky - Osaka Osaka.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Pragathi Guruprasad, Madhan Karky - Osaka Osaka.m4a",
       "fileName": "Anirudh Ravichander, Pragathi Guruprasad, Madhan Karky - Osaka Osaka.m4a"
     },
     {
-      "title": "Anirudh Ravichander, Ravi G, Shashaa Tirupati, Vignesh Shivan   Naan Pizhai (From 'Kaathuvaakula Rendu Kaadhal')",
+      "title": "Anirudh Ravichander, Ravi G, Shashaa Tirupati, Vignesh Shivan   Naan Pizhai (From 'Kaathuvaakula Rendu Kaadhal') (Local)",
       "url": "songs/Anirudh Ravichander, Ravi G, Shashaa Tirupati, Vignesh Shivan - Naan Pizhai (From 'Kaathuvaakula Rendu Kaadhal').m4a",
+      "localUrl": "songs/Anirudh Ravichander, Ravi G, Shashaa Tirupati, Vignesh Shivan - Naan Pizhai (From 'Kaathuvaakula Rendu Kaadhal').m4a",
       "fileName": "Anirudh Ravichander, Ravi G, Shashaa Tirupati, Vignesh Shivan - Naan Pizhai (From 'Kaathuvaakula Rendu Kaadhal').m4a"
     },
     {
-      "title": "Anirudh Ravichander, Shreya Ghoshal, Mohit Chauhan, Vaali   Velicha Poove",
+      "title": "Anirudh Ravichander, Shreya Ghoshal, Mohit Chauhan, Vaali   Velicha Poove (Local)",
       "url": "songs/Anirudh Ravichander, Shreya Ghoshal, Mohit Chauhan, Vaali - Velicha Poove.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Shreya Ghoshal, Mohit Chauhan, Vaali - Velicha Poove.m4a",
       "fileName": "Anirudh Ravichander, Shreya Ghoshal, Mohit Chauhan, Vaali - Velicha Poove.m4a"
     },
     {
-      "title": "Anirudh Ravichander, Shruti Haasan, R.D. Raja   Un Vizhigalil",
+      "title": "Anirudh Ravichander, Shruti Haasan, R.D. Raja   Un Vizhigalil (Local)",
       "url": "songs/Anirudh Ravichander, Shruti Haasan, R.D. Raja - Un Vizhigalil.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Shruti Haasan, R.D. Raja - Un Vizhigalil.m4a",
       "fileName": "Anirudh Ravichander, Shruti Haasan, R.D. Raja - Un Vizhigalil.m4a"
     },
     {
-      "title": "Anirudh Ravichander, Srinidhi Venkatesh   Avalukena",
+      "title": "Anirudh Ravichander, Srinidhi Venkatesh   Avalukena (Local)",
       "url": "songs/Anirudh Ravichander, Srinidhi Venkatesh - Avalukena.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Srinidhi Venkatesh - Avalukena.m4a",
       "fileName": "Anirudh Ravichander, Srinidhi Venkatesh - Avalukena.m4a"
     },
     {
-      "title": "Anirudh Ravichander, Thamarai, Neeti Mohan   Neeyum Naanum (From 'Naanum Rowdy Dhaan')",
+      "title": "Anirudh Ravichander, Thamarai, Neeti Mohan   Neeyum Naanum (From 'Naanum Rowdy Dhaan') (Local)",
       "url": "songs/Anirudh Ravichander, Thamarai, Neeti Mohan - Neeyum Naanum (From 'Naanum Rowdy Dhaan').m4a",
+      "localUrl": "songs/Anirudh Ravichander, Thamarai, Neeti Mohan - Neeyum Naanum (From 'Naanum Rowdy Dhaan').m4a",
       "fileName": "Anirudh Ravichander, Thamarai, Neeti Mohan - Neeyum Naanum (From 'Naanum Rowdy Dhaan').m4a"
     },
     {
-      "title": "Anirudh Ravichander, Vignesh Shivan   Dheema (From 'Love Insurance Kompany')",
+      "title": "Anirudh Ravichander, Vignesh Shivan   Dheema (From 'Love Insurance Kompany') (Local)",
       "url": "songs/Anirudh Ravichander, Vignesh Shivan - Dheema (From 'Love Insurance Kompany').m4a",
+      "localUrl": "songs/Anirudh Ravichander, Vignesh Shivan - Dheema (From 'Love Insurance Kompany').m4a",
       "fileName": "Anirudh Ravichander, Vignesh Shivan - Dheema (From 'Love Insurance Kompany').m4a"
     },
     {
-      "title": "Anirudh Ravichander, Vignesh Shivan   Senjitaley",
+      "title": "Anirudh Ravichander, Vignesh Shivan   Senjitaley (Local)",
       "url": "songs/Anirudh Ravichander, Vignesh Shivan - Senjitaley.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Vignesh Shivan - Senjitaley.m4a",
       "fileName": "Anirudh Ravichander, Vignesh Shivan - Senjitaley.m4a"
     },
     {
-      "title": "Anirudh Ravichander, Vignesh Shivan   Thangamey",
+      "title": "Anirudh Ravichander, Vignesh Shivan   Thangamey (Local)",
       "url": "songs/Anirudh Ravichander, Vignesh Shivan - Thangamey.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Vignesh Shivan - Thangamey.m4a",
       "fileName": "Anirudh Ravichander, Vignesh Shivan - Thangamey.m4a"
     },
     {
-      "title": "Anirudh Ravichander, Vignesh Shivan, Sean Roldan   Kannaana Kanne (From 'Naanum Rowdy Dhaan')",
+      "title": "Anirudh Ravichander, Vignesh Shivan, Sean Roldan   Kannaana Kanne (From 'Naanum Rowdy Dhaan') (Local)",
       "url": "songs/Anirudh Ravichander, Vignesh Shivan, Sean Roldan - Kannaana Kanne (From 'Naanum Rowdy Dhaan').m4a",
+      "localUrl": "songs/Anirudh Ravichander, Vignesh Shivan, Sean Roldan - Kannaana Kanne (From 'Naanum Rowdy Dhaan').m4a",
       "fileName": "Anirudh Ravichander, Vignesh Shivan, Sean Roldan - Kannaana Kanne (From 'Naanum Rowdy Dhaan').m4a"
     },
     {
-      "title": "Anirudh Ravichander, Vishal Dadlani, Yugabharathi   Aathi",
+      "title": "Anirudh Ravichander, Vishal Dadlani, Yugabharathi   Aathi (Local)",
       "url": "songs/Anirudh Ravichander, Vishal Dadlani, Yugabharathi - Aathi.m4a",
+      "localUrl": "songs/Anirudh Ravichander, Vishal Dadlani, Yugabharathi - Aathi.m4a",
       "fileName": "Anirudh Ravichander, Vishal Dadlani, Yugabharathi - Aathi.m4a"
     },
     {
-      "title": "Armaan Malik   Konjam  1",
+      "title": "Armaan Malik   Konjam  1 (Local)",
       "url": "songs/Armaan Malik - Konjam -1.m4a",
+      "localUrl": "songs/Armaan Malik - Konjam -1.m4a",
       "fileName": "Armaan Malik - Konjam -1.m4a"
     },
     {
-      "title": "D. Imman, Abhay Jodhpurkar, El Fé Choir, Madhan Karky   Oruthi Maelae",
+      "title": "D. Imman, Abhay Jodhpurkar, El Fé Choir, Madhan Karky   Oruthi Maelae (Local)",
       "url": "songs/D. Imman, Abhay Jodhpurkar, El Fé Choir, Madhan Karky - Oruthi Maelae.m4a",
+      "localUrl": "songs/D. Imman, Abhay Jodhpurkar, El Fé Choir, Madhan Karky - Oruthi Maelae.m4a",
       "fileName": "D. Imman, Abhay Jodhpurkar, El Fé Choir, Madhan Karky - Oruthi Maelae.m4a"
     },
     {
-      "title": "D. Imman, Nandini Srikar   Kannamma",
+      "title": "D. Imman, Nandini Srikar   Kannamma (Local)",
       "url": "songs/D. Imman, Nandini Srikar - Kannamma.m4a",
+      "localUrl": "songs/D. Imman, Nandini Srikar - Kannamma.m4a",
       "fileName": "D. Imman, Nandini Srikar - Kannamma.m4a"
     },
     {
-      "title": "D. Imman, Pradeep Kumar, Jonita Gandhi, Madhan Karky   Marandhaye",
+      "title": "D. Imman, Pradeep Kumar, Jonita Gandhi, Madhan Karky   Marandhaye (Local)",
       "url": "songs/D. Imman, Pradeep Kumar, Jonita Gandhi, Madhan Karky - Marandhaye.m4a",
+      "localUrl": "songs/D. Imman, Pradeep Kumar, Jonita Gandhi, Madhan Karky - Marandhaye.m4a",
       "fileName": "D. Imman, Pradeep Kumar, Jonita Gandhi, Madhan Karky - Marandhaye.m4a"
     },
     {
-      "title": "Darbuka Siva, Sid Sriram, Thamarai   Maruvaarthai (From 'Enai Noki Paayum Thota')",
+      "title": "Darbuka Siva, Sid Sriram, Thamarai   Maruvaarthai (From 'Enai Noki Paayum Thota') (Local)",
       "url": "songs/Darbuka Siva, Sid Sriram, Thamarai - Maruvaarthai (From 'Enai Noki Paayum Thota').m4a",
+      "localUrl": "songs/Darbuka Siva, Sid Sriram, Thamarai - Maruvaarthai (From 'Enai Noki Paayum Thota').m4a",
       "fileName": "Darbuka Siva, Sid Sriram, Thamarai - Maruvaarthai (From 'Enai Noki Paayum Thota').m4a"
     },
     {
-      "title": "Darbuka Siva, Sid Sriram, Thamarai   Mudhal Nee Mudivum Nee Title Track (From 'Mudhal Nee Mudivum Nee')",
+      "title": "Darbuka Siva, Sid Sriram, Thamarai   Mudhal Nee Mudivum Nee Title Track (From 'Mudhal Nee Mudivum Nee') (Local)",
       "url": "songs/Darbuka Siva, Sid Sriram, Thamarai - Mudhal Nee Mudivum Nee Title Track (From 'Mudhal Nee Mudivum Nee').m4a",
+      "localUrl": "songs/Darbuka Siva, Sid Sriram, Thamarai - Mudhal Nee Mudivum Nee Title Track (From 'Mudhal Nee Mudivum Nee').m4a",
       "fileName": "Darbuka Siva, Sid Sriram, Thamarai - Mudhal Nee Mudivum Nee Title Track (From 'Mudhal Nee Mudivum Nee').m4a"
     },
     {
-      "title": "Darbuka Siva, Thamarai, Sathyaprakash   Naan Pizhaippeno",
+      "title": "Darbuka Siva, Thamarai, Sathyaprakash   Naan Pizhaippeno (Local)",
       "url": "songs/Darbuka Siva, Thamarai, Sathyaprakash - Naan Pizhaippeno.m4a",
+      "localUrl": "songs/Darbuka Siva, Thamarai, Sathyaprakash - Naan Pizhaippeno.m4a",
       "fileName": "Darbuka Siva, Thamarai, Sathyaprakash - Naan Pizhaippeno.m4a"
     },
     {
-      "title": "Deva, Hariharan, Vaali   Konja Naal Poru",
+      "title": "Deva, Hariharan, Vaali   Konja Naal Poru (Local)",
       "url": "songs/Deva, Hariharan, Vaali - Konja Naal Poru.m4a",
+      "localUrl": "songs/Deva, Hariharan, Vaali - Konja Naal Poru.m4a",
       "fileName": "Deva, Hariharan, Vaali - Konja Naal Poru.m4a"
     },
     {
-      "title": "Dhanush, Anirudh Ravichander   Megham Karukatha (From 'Thiruchitrambalam')",
+      "title": "Dhanush, Anirudh Ravichander   Megham Karukatha (From 'Thiruchitrambalam') (Local)",
       "url": "songs/Dhanush, Anirudh Ravichander - Megham Karukatha (From 'Thiruchitrambalam').m4a",
+      "localUrl": "songs/Dhanush, Anirudh Ravichander - Megham Karukatha (From 'Thiruchitrambalam').m4a",
       "fileName": "Dhanush, Anirudh Ravichander - Megham Karukatha (From 'Thiruchitrambalam').m4a"
     },
     {
-      "title": "Dhee, Santhosh Narayanan, Vivek   Ey Sandakaara",
+      "title": "Dhee, Santhosh Narayanan, Vivek   Ey Sandakaara (Local)",
       "url": "songs/Dhee, Santhosh Narayanan, Vivek - Ey Sandakaara.m4a",
+      "localUrl": "songs/Dhee, Santhosh Narayanan, Vivek - Ey Sandakaara.m4a",
       "fileName": "Dhee, Santhosh Narayanan, Vivek - Ey Sandakaara.m4a"
     },
     {
-      "title": "Dhibu Ninan Thomas, Anirudh Ravichander, Arunraja Kamaraj   Othaiyadi Pathayila",
+      "title": "Dhibu Ninan Thomas, Anirudh Ravichander, Arunraja Kamaraj   Othaiyadi Pathayila (Local)",
       "url": "songs/Dhibu Ninan Thomas, Anirudh Ravichander, Arunraja Kamaraj - Othaiyadi Pathayila.m4a",
+      "localUrl": "songs/Dhibu Ninan Thomas, Anirudh Ravichander, Arunraja Kamaraj - Othaiyadi Pathayila.m4a",
       "fileName": "Dhibu Ninan Thomas, Anirudh Ravichander, Arunraja Kamaraj - Othaiyadi Pathayila.m4a"
     },
     {
-      "title": "Dhibu Ninan Thomas, Pradeep Kumar   Nee Kavithaigala",
+      "title": "Dhibu Ninan Thomas, Pradeep Kumar   Nee Kavithaigala (Local)",
       "url": "songs/Dhibu Ninan Thomas, Pradeep Kumar - Nee Kavithaigala.m4a",
+      "localUrl": "songs/Dhibu Ninan Thomas, Pradeep Kumar - Nee Kavithaigala.m4a",
       "fileName": "Dhibu Ninan Thomas, Pradeep Kumar - Nee Kavithaigala.m4a"
     },
     {
-      "title": "G. V. Prakash, Roop Kumar Rathod, Harini, Andrea Jeremiah, Na.Muthukumar   Pookkal Pookkum",
+      "title": "G. V. Prakash, Roop Kumar Rathod, Harini, Andrea Jeremiah, Na.Muthukumar   Pookkal Pookkum (Local)",
       "url": "songs/G. V. Prakash, Roop Kumar Rathod, Harini, Andrea Jeremiah, Na.Muthukumar - Pookkal Pookkum.m4a",
+      "localUrl": "songs/G. V. Prakash, Roop Kumar Rathod, Harini, Andrea Jeremiah, Na.Muthukumar - Pookkal Pookkum.m4a",
       "fileName": "G. V. Prakash, Roop Kumar Rathod, Harini, Andrea Jeremiah, Na.Muthukumar - Pookkal Pookkum.m4a"
     },
     {
-      "title": "G. V. Prakash, Saindhavi, Na.Muthukumar   Yaar Indha Saalai Oram",
+      "title": "G. V. Prakash, Saindhavi, Na.Muthukumar   Yaar Indha Saalai Oram (Local)",
       "url": "songs/G. V. Prakash, Saindhavi, Na.Muthukumar - Yaar Indha Saalai Oram.m4a",
+      "localUrl": "songs/G. V. Prakash, Saindhavi, Na.Muthukumar - Yaar Indha Saalai Oram.m4a",
       "fileName": "G. V. Prakash, Saindhavi, Na.Muthukumar - Yaar Indha Saalai Oram.m4a"
     },
     {
-      "title": "Govind Vasantha, Chinmayi   Kaathalae Kaathalae   From '96'",
+      "title": "Govind Vasantha, Chinmayi   Kaathalae Kaathalae   From '96' (Local)",
       "url": "songs/Govind Vasantha, Chinmayi - Kaathalae Kaathalae - From '96'.m4a",
+      "localUrl": "songs/Govind Vasantha, Chinmayi - Kaathalae Kaathalae - From '96'.m4a",
       "fileName": "Govind Vasantha, Chinmayi - Kaathalae Kaathalae - From '96'.m4a"
     },
     {
-      "title": "Govind Vasantha, Pradeep Kumar, Karthik Netha   The Life of Ram",
+      "title": "Govind Vasantha, Pradeep Kumar, Karthik Netha   The Life of Ram (Local)",
       "url": "songs/Govind Vasantha, Pradeep Kumar, Karthik Netha - The Life of Ram.m4a",
+      "localUrl": "songs/Govind Vasantha, Pradeep Kumar, Karthik Netha - The Life of Ram.m4a",
       "fileName": "Govind Vasantha, Pradeep Kumar, Karthik Netha - The Life of Ram.m4a"
     },
     {
-      "title": "Haricharan, Santhosh Narayanan, Vairamuthu   Nillayo",
+      "title": "Haricharan, Santhosh Narayanan, Vairamuthu   Nillayo (Local)",
       "url": "songs/Haricharan, Santhosh Narayanan, Vairamuthu - Nillayo.m4a",
+      "localUrl": "songs/Haricharan, Santhosh Narayanan, Vairamuthu - Nillayo.m4a",
       "fileName": "Haricharan, Santhosh Narayanan, Vairamuthu - Nillayo.m4a"
     },
     {
-      "title": "Haricharan, Shreya Ghoshal, D. Imman, Yugabharathi   Pona Usuru Vanthurichu",
+      "title": "Haricharan, Shreya Ghoshal, D. Imman, Yugabharathi   Pona Usuru Vanthurichu (Local)",
       "url": "songs/Haricharan, Shreya Ghoshal, D. Imman, Yugabharathi - Pona Usuru Vanthurichu.m4a",
+      "localUrl": "songs/Haricharan, Shreya Ghoshal, D. Imman, Yugabharathi - Pona Usuru Vanthurichu.m4a",
       "fileName": "Haricharan, Shreya Ghoshal, D. Imman, Yugabharathi - Pona Usuru Vanthurichu.m4a"
     },
     {
-      "title": "Harris Jayaraj, Hariharan, Devan Ekambaram, VV Prassanna, Thamarai   Nenjukkul Peidhidum (From 'Vaaranam Aayiram')",
+      "title": "Harris Jayaraj, Hariharan, Devan Ekambaram, VV Prassanna, Thamarai   Nenjukkul Peidhidum (From 'Vaaranam Aayiram') (Local)",
       "url": "songs/Harris Jayaraj, Hariharan, Devan Ekambaram, VV Prassanna, Thamarai - Nenjukkul Peidhidum (From 'Vaaranam Aayiram').m4a",
+      "localUrl": "songs/Harris Jayaraj, Hariharan, Devan Ekambaram, VV Prassanna, Thamarai - Nenjukkul Peidhidum (From 'Vaaranam Aayiram').m4a",
       "fileName": "Harris Jayaraj, Hariharan, Devan Ekambaram, VV Prassanna, Thamarai - Nenjukkul Peidhidum (From 'Vaaranam Aayiram').m4a"
     },
     {
-      "title": "Harris Jayaraj, Naresh Iyer, Prashanthini, Thamarai   Mundhinam (From 'Vaaranam Aayiram')",
+      "title": "Harris Jayaraj, Naresh Iyer, Prashanthini, Thamarai   Mundhinam (From 'Vaaranam Aayiram') (Local)",
       "url": "songs/Harris Jayaraj, Naresh Iyer, Prashanthini, Thamarai - Mundhinam (From 'Vaaranam Aayiram').m4a",
+      "localUrl": "songs/Harris Jayaraj, Naresh Iyer, Prashanthini, Thamarai - Mundhinam (From 'Vaaranam Aayiram').m4a",
       "fileName": "Harris Jayaraj, Naresh Iyer, Prashanthini, Thamarai - Mundhinam (From 'Vaaranam Aayiram').m4a"
     },
     {
-      "title": "Harris Jayaraj, S. P. Balasubrahmanyam, Kabilan   Yamma Yamma",
+      "title": "Harris Jayaraj, S. P. Balasubrahmanyam, Kabilan   Yamma Yamma (Local)",
       "url": "songs/Harris Jayaraj, S. P. Balasubrahmanyam, Kabilan - Yamma Yamma.m4a",
+      "localUrl": "songs/Harris Jayaraj, S. P. Balasubrahmanyam, Kabilan - Yamma Yamma.m4a",
       "fileName": "Harris Jayaraj, S. P. Balasubrahmanyam, Kabilan - Yamma Yamma.m4a"
     },
     {
-      "title": "Hiphop Tamizha   Aye Aye Aye",
+      "title": "Hiphop Tamizha   Aye Aye Aye (Local)",
       "url": "songs/Hiphop Tamizha - Aye Aye Aye.m4a",
+      "localUrl": "songs/Hiphop Tamizha - Aye Aye Aye.m4a",
       "fileName": "Hiphop Tamizha - Aye Aye Aye.m4a"
     },
     {
-      "title": "Hiphop Tamizha   Pazhagikalaam",
+      "title": "Hiphop Tamizha   Pazhagikalaam (Local)",
       "url": "songs/Hiphop Tamizha - Pazhagikalaam.m4a",
+      "localUrl": "songs/Hiphop Tamizha - Pazhagikalaam.m4a",
       "fileName": "Hiphop Tamizha - Pazhagikalaam.m4a"
     },
     {
-      "title": "Hiphop Tamizha   Sakkarakatti",
+      "title": "Hiphop Tamizha   Sakkarakatti (Local)",
       "url": "songs/Hiphop Tamizha - Sakkarakatti.m4a",
+      "localUrl": "songs/Hiphop Tamizha - Sakkarakatti.m4a",
       "fileName": "Hiphop Tamizha - Sakkarakatti.m4a"
     },
     {
-      "title": "Hiphop Tamizha   Vaadi Pulla Vaadi",
+      "title": "Hiphop Tamizha   Vaadi Pulla Vaadi (Local)",
       "url": "songs/Hiphop Tamizha - Vaadi Pulla Vaadi.m4a",
+      "localUrl": "songs/Hiphop Tamizha - Vaadi Pulla Vaadi.m4a",
       "fileName": "Hiphop Tamizha - Vaadi Pulla Vaadi.m4a"
     },
     {
-      "title": "Hiphop Tamizha, Anirudh Ravichander   Takkunu Takkunu   From 'Mr. Local'",
+      "title": "Hiphop Tamizha, Anirudh Ravichander   Takkunu Takkunu   From 'Mr. Local' (Local)",
       "url": "songs/Hiphop Tamizha, Anirudh Ravichander - Takkunu Takkunu - From 'Mr. Local'.m4a",
+      "localUrl": "songs/Hiphop Tamizha, Anirudh Ravichander - Takkunu Takkunu - From 'Mr. Local'.m4a",
       "fileName": "Hiphop Tamizha, Anirudh Ravichander - Takkunu Takkunu - From 'Mr. Local'.m4a"
     },
     {
-      "title": "Hiphop Tamizha, Kabilan Vairamuthu, Sudharshan Ashok   Oxygen",
+      "title": "Hiphop Tamizha, Kabilan Vairamuthu, Sudharshan Ashok   Oxygen (Local)",
       "url": "songs/Hiphop Tamizha, Kabilan Vairamuthu, Sudharshan Ashok - Oxygen.m4a",
+      "localUrl": "songs/Hiphop Tamizha, Kabilan Vairamuthu, Sudharshan Ashok - Oxygen.m4a",
       "fileName": "Hiphop Tamizha, Kabilan Vairamuthu, Sudharshan Ashok - Oxygen.m4a"
     },
     {
-      "title": "Hiphop Tamizha, Kaushik Krish, Pradeep Ranganathan   Hi Sonna Pothum (From 'Comali')",
+      "title": "Hiphop Tamizha, Kaushik Krish, Pradeep Ranganathan   Hi Sonna Pothum (From 'Comali') (Local)",
       "url": "songs/Hiphop Tamizha, Kaushik Krish, Pradeep Ranganathan - Hi Sonna Pothum (From 'Comali').m4a",
+      "localUrl": "songs/Hiphop Tamizha, Kaushik Krish, Pradeep Ranganathan - Hi Sonna Pothum (From 'Comali').m4a",
       "fileName": "Hiphop Tamizha, Kaushik Krish, Pradeep Ranganathan - Hi Sonna Pothum (From 'Comali').m4a"
     },
     {
-      "title": "Hiphop Tamizha, Kharesma Ravichandran   Kadhal Cricket   Love (Not Out)",
+      "title": "Hiphop Tamizha, Kharesma Ravichandran   Kadhal Cricket   Love (Not Out) (Local)",
       "url": "songs/Hiphop Tamizha, Kharesma Ravichandran - Kadhal Cricket - Love (Not Out).m4a",
+      "localUrl": "songs/Hiphop Tamizha, Kharesma Ravichandran - Kadhal Cricket - Love (Not Out).m4a",
       "fileName": "Hiphop Tamizha, Kharesma Ravichandran - Kadhal Cricket - Love (Not Out).m4a"
     },
     {
-      "title": "Hiphop Tamizha, Raghu Dixit, Sathyaprakash D., Jithin Raj   Neeyum Naanum Anbe",
+      "title": "Hiphop Tamizha, Raghu Dixit, Sathyaprakash D., Jithin Raj   Neeyum Naanum Anbe (Local)",
       "url": "songs/Hiphop Tamizha, Raghu Dixit, Sathyaprakash D., Jithin Raj - Neeyum Naanum Anbe.m4a",
+      "localUrl": "songs/Hiphop Tamizha, Raghu Dixit, Sathyaprakash D., Jithin Raj - Neeyum Naanum Anbe.m4a",
       "fileName": "Hiphop Tamizha, Raghu Dixit, Sathyaprakash D., Jithin Raj - Neeyum Naanum Anbe.m4a"
     },
     {
-      "title": "Hiphop Tamizha, Teejay, Al Rufian   Kadhal Oru Aagayam",
+      "title": "Hiphop Tamizha, Teejay, Al Rufian   Kadhal Oru Aagayam (Local)",
       "url": "songs/Hiphop Tamizha, Teejay, Al Rufian - Kadhal Oru Aagayam.m4a",
+      "localUrl": "songs/Hiphop Tamizha, Teejay, Al Rufian - Kadhal Oru Aagayam.m4a",
       "fileName": "Hiphop Tamizha, Teejay, Al Rufian - Kadhal Oru Aagayam.m4a"
     },
     {
-      "title": "Ilaiyaraaja, Sid Sriram, Kabilan   Unna Nenachu (From 'Psycho (Tamil)')",
+      "title": "Ilaiyaraaja, Sid Sriram, Kabilan   Unna Nenachu (From 'Psycho (Tamil)') (Local)",
       "url": "songs/Ilaiyaraaja, Sid Sriram, Kabilan - Unna Nenachu (From 'Psycho (Tamil)').m4a",
+      "localUrl": "songs/Ilaiyaraaja, Sid Sriram, Kabilan - Unna Nenachu (From 'Psycho (Tamil)').m4a",
       "fileName": "Ilaiyaraaja, Sid Sriram, Kabilan - Unna Nenachu (From 'Psycho (Tamil)').m4a"
     },
     {
-      "title": "James Vasanthan, Bellie Raj, Deepa Miriam, Thamarai   Kangal Irandal",
+      "title": "James Vasanthan, Bellie Raj, Deepa Miriam, Thamarai   Kangal Irandal (Local)",
       "url": "songs/James Vasanthan, Bellie Raj, Deepa Miriam, Thamarai - Kangal Irandal.m4a",
+      "localUrl": "songs/James Vasanthan, Bellie Raj, Deepa Miriam, Thamarai - Kangal Irandal.m4a",
       "fileName": "James Vasanthan, Bellie Raj, Deepa Miriam, Thamarai - Kangal Irandal.m4a"
     },
     {
-      "title": "Justin Prabhakaran, Sean Roldan, Padmalatha   Adiyae Azhagae",
+      "title": "Justin Prabhakaran, Sean Roldan, Padmalatha   Adiyae Azhagae (Local)",
       "url": "songs/Justin Prabhakaran, Sean Roldan, Padmalatha - Adiyae Azhagae.m4a",
+      "localUrl": "songs/Justin Prabhakaran, Sean Roldan, Padmalatha - Adiyae Azhagae.m4a",
       "fileName": "Justin Prabhakaran, Sean Roldan, Padmalatha - Adiyae Azhagae.m4a"
     },
     {
-      "title": "Leon James, Sathyaprakash   Thimiru Kaattaadha Di",
+      "title": "Leon James, Sathyaprakash   Thimiru Kaattaadha Di (Local)",
       "url": "songs/Leon James, Sathyaprakash - Thimiru Kaattaadha Di.m4a",
+      "localUrl": "songs/Leon James, Sathyaprakash - Thimiru Kaattaadha Di.m4a",
       "fileName": "Leon James, Sathyaprakash - Thimiru Kaattaadha Di.m4a"
     },
     {
-      "title": "Pritam, Sid Sriram   Theethiriyaai (From 'Brahmastra (Tamil)')",
+      "title": "Pritam, Sid Sriram   Theethiriyaai (From 'Brahmastra (Tamil)') (Local)",
       "url": "songs/Pritam, Sid Sriram - Theethiriyaai (From 'Brahmastra (Tamil)').m4a",
+      "localUrl": "songs/Pritam, Sid Sriram - Theethiriyaai (From 'Brahmastra (Tamil)').m4a",
       "fileName": "Pritam, Sid Sriram - Theethiriyaai (From 'Brahmastra (Tamil)').m4a"
     },
     {
-      "title": "Saindhavi, G. V. Prakash   Pirai Thedum",
+      "title": "Saindhavi, G. V. Prakash   Pirai Thedum (Local)",
       "url": "songs/Saindhavi, G. V. Prakash - Pirai Thedum.m4a",
+      "localUrl": "songs/Saindhavi, G. V. Prakash - Pirai Thedum.m4a",
       "fileName": "Saindhavi, G. V. Prakash - Pirai Thedum.m4a"
     },
     {
-      "title": "Sam C.S., Anirudh Ravichander, Shakthisree Gopalan   Yaanji   From 'Vikram Vedha'",
+      "title": "Sam C.S., Anirudh Ravichander, Shakthisree Gopalan   Yaanji   From 'Vikram Vedha' (Local)",
       "url": "songs/Sam C.S., Anirudh Ravichander, Shakthisree Gopalan - Yaanji - From 'Vikram Vedha'.m4a",
+      "localUrl": "songs/Sam C.S., Anirudh Ravichander, Shakthisree Gopalan - Yaanji - From 'Vikram Vedha'.m4a",
       "fileName": "Sam C.S., Anirudh Ravichander, Shakthisree Gopalan - Yaanji - From 'Vikram Vedha'.m4a"
     },
     {
-      "title": "Santhosh Dhayanidhi, Sid Sriram, Alisha Thomas, Aishwarya Kumar, Uma Devi   Hey Penne (From 'Kattappava Kanom')",
+      "title": "Santhosh Dhayanidhi, Sid Sriram, Alisha Thomas, Aishwarya Kumar, Uma Devi   Hey Penne (From 'Kattappava Kanom') (Local)",
       "url": "songs/Santhosh Dhayanidhi, Sid Sriram, Alisha Thomas, Aishwarya Kumar, Uma Devi - Hey Penne (From 'Kattappava Kanom').m4a",
+      "localUrl": "songs/Santhosh Dhayanidhi, Sid Sriram, Alisha Thomas, Aishwarya Kumar, Uma Devi - Hey Penne (From 'Kattappava Kanom').m4a",
       "fileName": "Santhosh Dhayanidhi, Sid Sriram, Alisha Thomas, Aishwarya Kumar, Uma Devi - Hey Penne (From 'Kattappava Kanom').m4a"
     },
     {
-      "title": "Santhosh Narayanan, Anirudh Ravichander   Thenmozhi (From 'Thiruchitrambalam')",
+      "title": "Santhosh Narayanan, Anirudh Ravichander   Thenmozhi (From 'Thiruchitrambalam') (Local)",
       "url": "songs/Santhosh Narayanan, Anirudh Ravichander - Thenmozhi (From 'Thiruchitrambalam').m4a",
+      "localUrl": "songs/Santhosh Narayanan, Anirudh Ravichander - Thenmozhi (From 'Thiruchitrambalam').m4a",
       "fileName": "Santhosh Narayanan, Anirudh Ravichander - Thenmozhi (From 'Thiruchitrambalam').m4a"
     },
     {
-      "title": "Santhosh Narayanan, Dhanush   Nethu (From 'Jagame Thandhiram')",
+      "title": "Santhosh Narayanan, Dhanush   Nethu (From 'Jagame Thandhiram') (Local)",
       "url": "songs/Santhosh Narayanan, Dhanush - Nethu (From 'Jagame Thandhiram').m4a",
+      "localUrl": "songs/Santhosh Narayanan, Dhanush - Nethu (From 'Jagame Thandhiram').m4a",
       "fileName": "Santhosh Narayanan, Dhanush - Nethu (From 'Jagame Thandhiram').m4a"
     },
     {
-      "title": "Santhosh Narayanan, Pradeep Kumar   Agayam Theepiditha   From 'Madras'",
+      "title": "Santhosh Narayanan, Pradeep Kumar   Agayam Theepiditha   From 'Madras' (Local)",
       "url": "songs/Santhosh Narayanan, Pradeep Kumar - Agayam Theepiditha - From 'Madras'.m4a",
+      "localUrl": "songs/Santhosh Narayanan, Pradeep Kumar - Agayam Theepiditha - From 'Madras'.m4a",
       "fileName": "Santhosh Narayanan, Pradeep Kumar - Agayam Theepiditha - From 'Madras'.m4a"
     },
     {
-      "title": "Santhosh Narayanan, Pradeep Kumar   Poo Avizhum Pozhudhil",
+      "title": "Santhosh Narayanan, Pradeep Kumar   Poo Avizhum Pozhudhil (Local)",
       "url": "songs/Santhosh Narayanan, Pradeep Kumar - Poo Avizhum Pozhudhil.m4a",
+      "localUrl": "songs/Santhosh Narayanan, Pradeep Kumar - Poo Avizhum Pozhudhil.m4a",
       "fileName": "Santhosh Narayanan, Pradeep Kumar - Poo Avizhum Pozhudhil.m4a"
     },
     {
-      "title": "Santhosh Narayanan, Pradeep Kumar, Ananthu   Idhayam Love (Megamo Aval)   From 'Meyaadha Maan'",
+      "title": "Santhosh Narayanan, Pradeep Kumar, Ananthu   Idhayam Love (Megamo Aval)   From 'Meyaadha Maan' (Local)",
       "url": "songs/Santhosh Narayanan, Pradeep Kumar, Ananthu - Idhayam Love (Megamo Aval) - From 'Meyaadha Maan'.m4a",
+      "localUrl": "songs/Santhosh Narayanan, Pradeep Kumar, Ananthu - Idhayam Love (Megamo Aval) - From 'Meyaadha Maan'.m4a",
       "fileName": "Santhosh Narayanan, Pradeep Kumar, Ananthu - Idhayam Love (Megamo Aval) - From 'Meyaadha Maan'.m4a"
     },
     {
-      "title": "Santhosh Narayanan, Pradeep Kumar, Kalyani Nair   Agasatha   From 'Cuckoo'",
+      "title": "Santhosh Narayanan, Pradeep Kumar, Kalyani Nair   Agasatha   From 'Cuckoo' (Local)",
       "url": "songs/Santhosh Narayanan, Pradeep Kumar, Kalyani Nair - Agasatha - From 'Cuckoo'.m4a",
+      "localUrl": "songs/Santhosh Narayanan, Pradeep Kumar, Kalyani Nair - Agasatha - From 'Cuckoo'.m4a",
       "fileName": "Santhosh Narayanan, Pradeep Kumar, Kalyani Nair - Agasatha - From 'Cuckoo'.m4a"
     },
     {
-      "title": "Sean Roldan, Dhanush   The Romance Of Power Paandi   Venpani Malare (Male)",
+      "title": "Sean Roldan, Dhanush   The Romance Of Power Paandi   Venpani Malare (Male) (Local)",
       "url": "songs/Sean Roldan, Dhanush - The Romance Of Power Paandi - Venpani Malare (Male).m4a",
+      "localUrl": "songs/Sean Roldan, Dhanush - The Romance Of Power Paandi - Venpani Malare (Male).m4a",
       "fileName": "Sean Roldan, Dhanush - The Romance Of Power Paandi - Venpani Malare (Male).m4a"
     },
     {
-      "title": "Sean Roldan, G. V. Prakash   Uyir Vaasame",
+      "title": "Sean Roldan, G. V. Prakash   Uyir Vaasame (Local)",
       "url": "songs/Sean Roldan, G. V. Prakash - Uyir Vaasame.m4a",
+      "localUrl": "songs/Sean Roldan, G. V. Prakash - Uyir Vaasame.m4a",
       "fileName": "Sean Roldan, G. V. Prakash - Uyir Vaasame.m4a"
     },
     {
-      "title": "Sean Roldan, Mohan Rajan   Naan Gaali   From 'Good Night'",
+      "title": "Sean Roldan, Mohan Rajan   Naan Gaali   From 'Good Night' (Local)",
       "url": "songs/Sean Roldan, Mohan Rajan - Naan Gaali - From 'Good Night'.m4a",
+      "localUrl": "songs/Sean Roldan, Mohan Rajan - Naan Gaali - From 'Good Night'.m4a",
       "fileName": "Sean Roldan, Mohan Rajan - Naan Gaali - From 'Good Night'.m4a"
     },
     {
-      "title": "Shankar Ehsaan Loy, Kamal Haasan, Shankar Mahadevan   Unnai Kaanadhu Naan",
+      "title": "Shankar Ehsaan Loy, Kamal Haasan, Shankar Mahadevan   Unnai Kaanadhu Naan (Local)",
       "url": "songs/Shankar-Ehsaan-Loy, Kamal Haasan, Shankar Mahadevan - Unnai Kaanadhu Naan.m4a",
+      "localUrl": "songs/Shankar-Ehsaan-Loy, Kamal Haasan, Shankar Mahadevan - Unnai Kaanadhu Naan.m4a",
       "fileName": "Shankar-Ehsaan-Loy, Kamal Haasan, Shankar Mahadevan - Unnai Kaanadhu Naan.m4a"
     },
     {
-      "title": "Silambarasan TR, Viveka   Yaaraiyum Ivlo Azhaga (From 'SULTHAN')",
+      "title": "Silambarasan TR, Viveka   Yaaraiyum Ivlo Azhaga (From 'SULTHAN') (Local)",
       "url": "songs/Silambarasan TR, Viveka - Yaaraiyum Ivlo Azhaga (From 'SULTHAN').m4a",
+      "localUrl": "songs/Silambarasan TR, Viveka - Yaaraiyum Ivlo Azhaga (From 'SULTHAN').m4a",
       "fileName": "Silambarasan TR, Viveka - Yaaraiyum Ivlo Azhaga (From 'SULTHAN').m4a"
     },
     {
-      "title": "Sooraj Santhosh, Chinmayi, Justin Prabhakaran, Sarathi   Neelothi",
+      "title": "Sooraj Santhosh, Chinmayi, Justin Prabhakaran, Sarathi   Neelothi (Local)",
       "url": "songs/Sooraj Santhosh, Chinmayi, Justin Prabhakaran, Sarathi - Neelothi.m4a",
+      "localUrl": "songs/Sooraj Santhosh, Chinmayi, Justin Prabhakaran, Sarathi - Neelothi.m4a",
       "fileName": "Sooraj Santhosh, Chinmayi, Justin Prabhakaran, Sarathi - Neelothi.m4a"
     },
     {
-      "title": "Tippu   Venmathiye",
+      "title": "Tippu   Venmathiye (Local)",
       "url": "songs/Tippu - Venmathiye.m4a",
+      "localUrl": "songs/Tippu - Venmathiye.m4a",
       "fileName": "Tippu - Venmathiye.m4a"
     },
     {
-      "title": "Vidyasagar, Udit Narayan, Sujatha, Yugabharathi   Kokkorakko   From 'Gilli'",
+      "title": "Vidyasagar, Udit Narayan, Sujatha, Yugabharathi   Kokkorakko   From 'Gilli' (Local)",
       "url": "songs/Vidyasagar, Udit Narayan, Sujatha, Yugabharathi - Kokkorakko - From 'Gilli'.m4a",
+      "localUrl": "songs/Vidyasagar, Udit Narayan, Sujatha, Yugabharathi - Kokkorakko - From 'Gilli'.m4a",
       "fileName": "Vidyasagar, Udit Narayan, Sujatha, Yugabharathi - Kokkorakko - From 'Gilli'.m4a"
     },
     {
-      "title": "Vijay Antony, Naresh Iyer   Kan Irandil",
+      "title": "Vijay Antony, Naresh Iyer   Kan Irandil (Local)",
       "url": "songs/Vijay Antony, Naresh Iyer - Kan Irandil.m4a",
+      "localUrl": "songs/Vijay Antony, Naresh Iyer - Kan Irandil.m4a",
       "fileName": "Vijay Antony, Naresh Iyer - Kan Irandil.m4a"
     },
     {
-      "title": "Vishal Chandrashekhar, Anirudh Ravichander, Shashaa Tirupati   Bodhai Kaname   From 'Oh Manapenne'",
+      "title": "Vishal Chandrashekhar, Anirudh Ravichander, Shashaa Tirupati   Bodhai Kaname   From 'Oh Manapenne' (Local)",
       "url": "songs/Vishal Chandrashekhar, Anirudh Ravichander, Shashaa Tirupati - Bodhai Kaname - From 'Oh Manapenne'.m4a",
+      "localUrl": "songs/Vishal Chandrashekhar, Anirudh Ravichander, Shashaa Tirupati - Bodhai Kaname - From 'Oh Manapenne'.m4a",
       "fileName": "Vishal Chandrashekhar, Anirudh Ravichander, Shashaa Tirupati - Bodhai Kaname - From 'Oh Manapenne'.m4a"
     },
     {
-      "title": "Vivek   Mervin, Ku Karthik   Orasaadha   Madras Gig",
+      "title": "Vivek   Mervin, Ku Karthik   Orasaadha   Madras Gig (Local)",
       "url": "songs/Vivek - Mervin, Ku Karthik - Orasaadha - Madras Gig.m4a",
+      "localUrl": "songs/Vivek - Mervin, Ku Karthik - Orasaadha - Madras Gig.m4a",
       "fileName": "Vivek - Mervin, Ku Karthik - Orasaadha - Madras Gig.m4a"
     },
     {
-      "title": "Yuvan Shankar Raja, Ajesh, Andrea Jeremiah, Gangai Amaran   Idhu Varai",
+      "title": "Yuvan Shankar Raja, Ajesh, Andrea Jeremiah, Gangai Amaran   Idhu Varai (Local)",
       "url": "songs/Yuvan Shankar Raja, Ajesh, Andrea Jeremiah, Gangai Amaran - Idhu Varai.m4a",
+      "localUrl": "songs/Yuvan Shankar Raja, Ajesh, Andrea Jeremiah, Gangai Amaran - Idhu Varai.m4a",
       "fileName": "Yuvan Shankar Raja, Ajesh, Andrea Jeremiah, Gangai Amaran - Idhu Varai.m4a"
     },
     {
-      "title": "Yuvan Shankar Raja, Hariharan, Na.Muthukumar   Venmegam",
+      "title": "Yuvan Shankar Raja, Hariharan, Na.Muthukumar   Venmegam (Local)",
       "url": "songs/Yuvan Shankar Raja, Hariharan, Na.Muthukumar - Venmegam.m4a",
+      "localUrl": "songs/Yuvan Shankar Raja, Hariharan, Na.Muthukumar - Venmegam.m4a",
       "fileName": "Yuvan Shankar Raja, Hariharan, Na.Muthukumar - Venmegam.m4a"
     },
     {
-      "title": "Yuvan Shankar Raja, Padmaja Sreenivasan, Justin Prabhakaran, Karthik Netha   Minnu Vattaam Poochi",
+      "title": "Yuvan Shankar Raja, Padmaja Sreenivasan, Justin Prabhakaran, Karthik Netha   Minnu Vattaam Poochi (Local)",
       "url": "songs/Yuvan Shankar Raja, Padmaja Sreenivasan, Justin Prabhakaran, Karthik Netha - Minnu Vattaam Poochi.m4a",
+      "localUrl": "songs/Yuvan Shankar Raja, Padmaja Sreenivasan, Justin Prabhakaran, Karthik Netha - Minnu Vattaam Poochi.m4a",
       "fileName": "Yuvan Shankar Raja, Padmaja Sreenivasan, Justin Prabhakaran, Karthik Netha - Minnu Vattaam Poochi.m4a"
     },
     {
-      "title": "Yuvan Shankar Raja, Roop Kumar Rathod, Na.Muthukumar   Oru Devathai (From 'Vaamanan')",
+      "title": "Yuvan Shankar Raja, Roop Kumar Rathod, Na.Muthukumar   Oru Devathai (From 'Vaamanan') (Local)",
       "url": "songs/Yuvan Shankar Raja, Roop Kumar Rathod, Na.Muthukumar - Oru Devathai (From 'Vaamanan').m4a",
+      "localUrl": "songs/Yuvan Shankar Raja, Roop Kumar Rathod, Na.Muthukumar - Oru Devathai (From 'Vaamanan').m4a",
       "fileName": "Yuvan Shankar Raja, Roop Kumar Rathod, Na.Muthukumar - Oru Devathai (From 'Vaamanan').m4a"
     },
     {
-      "title": "Yuvan Shankar Raja, Sooraj Santhosh, Kabilan   Kadhal Aasai (From 'Anjaan')",
+      "title": "Yuvan Shankar Raja, Sooraj Santhosh, Kabilan   Kadhal Aasai (From 'Anjaan') (Local)",
       "url": "songs/Yuvan Shankar Raja, Sooraj Santhosh, Kabilan - Kadhal Aasai (From 'Anjaan').m4a",
+      "localUrl": "songs/Yuvan Shankar Raja, Sooraj Santhosh, Kabilan - Kadhal Aasai (From 'Anjaan').m4a",
       "fileName": "Yuvan Shankar Raja, Sooraj Santhosh, Kabilan - Kadhal Aasai (From 'Anjaan').m4a"
+    }
+  ],
+  "AllTimeTopSyd": [
+    {
+      "title": "All of Me   John Legend (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/All%20of%20Me%20-%20John%20Legend.mp3",
+      "localUrl": null,
+      "fileName": "All of Me - John Legend.mp3"
+    },
+    {
+      "title": "Always Forever   Cults (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Always%20Forever%20-%20Cults.mp3",
+      "localUrl": null,
+      "fileName": "Always Forever - Cults.mp3"
+    },
+    {
+      "title": "Amour plastique   Videoclub Adle Castillon Mattyeux (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Amour%20plastique%20-%20Videoclub%20Adle%20Castillon%20Mattyeux.mp3",
+      "localUrl": null,
+      "fileName": "Amour plastique - Videoclub Adle Castillon Mattyeux.mp3"
+    },
+    {
+      "title": "Arcade   Duncan Laurence (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Arcade%20-%20Duncan%20Laurence.mp3",
+      "localUrl": null,
+      "fileName": "Arcade - Duncan Laurence.mp3"
+    },
+    {
+      "title": "As It Was   Harry Styles (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/As%20It%20Was%20-%20Harry%20Styles.mp3",
+      "localUrl": null,
+      "fileName": "As It Was - Harry Styles.mp3"
+    },
+    {
+      "title": "Back to Bad   Loser (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Back%20to%20Bad%20-%20Loser.mp3",
+      "localUrl": null,
+      "fileName": "Back to Bad - Loser.mp3"
+    },
+    {
+      "title": "Bad Liar   Imagine Dragons (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Bad%20Liar%20-%20Imagine%20Dragons.mp3",
+      "localUrl": null,
+      "fileName": "Bad Liar - Imagine Dragons.mp3"
+    },
+    {
+      "title": "Bad Piggies Theme   Ilmari Hakkola (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Bad%20Piggies%20Theme%20-%20Ilmari%20Hakkola.mp3",
+      "localUrl": null,
+      "fileName": "Bad Piggies Theme - Ilmari Hakkola.mp3"
+    },
+    {
+      "title": "Believer   Imagine Dragons (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Believer%20-%20Imagine%20Dragons.mp3",
+      "localUrl": null,
+      "fileName": "Believer - Imagine Dragons.mp3"
+    },
+    {
+      "title": "Best Day Of My Life   American Authors (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Best%20Day%20Of%20My%20Life%20-%20American%20Authors.mp3",
+      "localUrl": null,
+      "fileName": "Best Day Of My Life - American Authors.mp3"
+    },
+    {
+      "title": "Blank Space   Taylor Swift (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Blank%20Space%20-%20Taylor%20Swift.mp3",
+      "localUrl": null,
+      "fileName": "Blank Space - Taylor Swift.mp3"
+    },
+    {
+      "title": "Blue Bird From Naruto Shippuden   Akano (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Blue%20Bird%20From%20Naruto%20Shippuden%20-%20Akano.mp3",
+      "localUrl": null,
+      "fileName": "Blue Bird From Naruto Shippuden - Akano.mp3"
+    },
+    {
+      "title": "Bones   Imagine Dragons (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Bones%20-%20Imagine%20Dragons.mp3",
+      "localUrl": null,
+      "fileName": "Bones - Imagine Dragons.mp3"
+    },
+    {
+      "title": "Classic   MKTO (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Classic%20-%20MKTO.mp3",
+      "localUrl": null,
+      "fileName": "Classic - MKTO.mp3"
+    },
+    {
+      "title": "Cradles   Sub Urban (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Cradles%20-%20Sub%20Urban.mp3",
+      "localUrl": null,
+      "fileName": "Cradles - Sub Urban.mp3"
+    },
+    {
+      "title": "Dancing in My Room   347aidan (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Dancing%20in%20My%20Room%20-%20347aidan.mp3",
+      "localUrl": null,
+      "fileName": "Dancing in My Room - 347aidan.mp3"
+    },
+    {
+      "title": "Dandelions   Ruth B. (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Dandelions%20-%20Ruth%20B..mp3",
+      "localUrl": null,
+      "fileName": "Dandelions - Ruth B..mp3"
+    },
+    {
+      "title": "Dandelions   slowed reverb   Ruth B.sped up slowedslater (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Dandelions%20-%20slowed%20reverb%20-%20Ruth%20B.sped%20up%20slowedslater.mp3",
+      "localUrl": null,
+      "fileName": "Dandelions - slowed reverb - Ruth B.sped up slowedslater.mp3"
+    },
+    {
+      "title": "Demons   Imagine Dragons (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Demons%20-%20Imagine%20Dragons.mp3",
+      "localUrl": null,
+      "fileName": "Demons - Imagine Dragons.mp3"
+    },
+    {
+      "title": "Die Young   Kesha (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Die%20Young%20-%20Kesha.mp3",
+      "localUrl": null,
+      "fileName": "Die Young - Kesha.mp3"
+    },
+    {
+      "title": "Drag Me Down   One Direction (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Drag%20Me%20Down%20-%20One%20Direction.mp3",
+      "localUrl": null,
+      "fileName": "Drag Me Down - One Direction.mp3"
+    },
+    {
+      "title": "Driftveil City   Kunning Fox (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Driftveil%20City%20-%20Kunning%20Fox.mp3",
+      "localUrl": null,
+      "fileName": "Driftveil City - Kunning Fox.mp3"
+    },
+    {
+      "title": "Eastside with Halsey Khalid   benny blancoHalseyKhalid (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Eastside%20with%20Halsey%20Khalid%20-%20benny%20blancoHalseyKhalid.mp3",
+      "localUrl": null,
+      "fileName": "Eastside with Halsey Khalid - benny blancoHalseyKhalid.mp3"
+    },
+    {
+      "title": "Electric Love   BRNS (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Electric%20Love%20-%20BRNS.mp3",
+      "localUrl": null,
+      "fileName": "Electric Love - BRNS.mp3"
+    },
+    {
+      "title": "Enemy with JID   from the series Arcane League of Legends   Imagine DragonsJIDArcaneLeague of Legends (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Enemy%20with%20JID%20-%20from%20the%20series%20Arcane%20League%20of%20Legends%20-%20Imagine%20DragonsJIDArcaneLeague%20of%20Legends.mp3",
+      "localUrl": null,
+      "fileName": "Enemy with JID - from the series Arcane League of Legends - Imagine DragonsJIDArcaneLeague of Legends.mp3"
+    },
+    {
+      "title": "Eyes Blue Like The Atlantic feat. Subvrbs   Sista ProdSubvrbs (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Eyes%20Blue%20Like%20The%20Atlantic%20feat.%20Subvrbs%20-%20Sista%20ProdSubvrbs.mp3",
+      "localUrl": null,
+      "fileName": "Eyes Blue Like The Atlantic feat. Subvrbs - Sista ProdSubvrbs.mp3"
+    },
+    {
+      "title": "FRIENDS   Marshmello Anne Marie (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/FRIENDS%20-%20Marshmello%20Anne-Marie.mp3",
+      "localUrl": null,
+      "fileName": "FRIENDS - Marshmello Anne-Marie.mp3"
+    },
+    {
+      "title": "Fairy Fountain   MikelGameChops (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Fairy%20Fountain%20-%20MikelGameChops.mp3",
+      "localUrl": null,
+      "fileName": "Fairy Fountain - MikelGameChops.mp3"
+    },
+    {
+      "title": "Fairy Fountain   Super Guitar Bros (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Fairy%20Fountain%20-%20Super%20Guitar%20Bros.mp3",
+      "localUrl": null,
+      "fileName": "Fairy Fountain - Super Guitar Bros.mp3"
+    },
+    {
+      "title": "Falling for You   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Falling%20for%20You%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "Falling for You - BoyWithUke.mp3"
+    },
+    {
+      "title": "Flowers   Miley Cyrus (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Flowers%20-%20Miley%20Cyrus.mp3",
+      "localUrl": null,
+      "fileName": "Flowers - Miley Cyrus.mp3"
+    },
+    {
+      "title": "Fly Me to the Moon   The Macarons Project (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Fly%20Me%20to%20the%20Moon%20-%20The%20Macarons%20Project.mp3",
+      "localUrl": null,
+      "fileName": "Fly Me to the Moon - The Macarons Project.mp3"
+    },
+    {
+      "title": "From The Start   Laufey (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/From%20The%20Start%20-%20Laufey.mp3",
+      "localUrl": null,
+      "fileName": "From The Start - Laufey.mp3"
+    },
+    {
+      "title": "Haggstrom   C418 (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Haggstrom%20-%20C418.mp3",
+      "localUrl": null,
+      "fileName": "Haggstrom - C418.mp3"
+    },
+    {
+      "title": "Heart Attack   Demi Lovato (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Heart%20Attack%20-%20Demi%20Lovato.mp3",
+      "localUrl": null,
+      "fileName": "Heart Attack - Demi Lovato.mp3"
+    },
+    {
+      "title": "Heat Waves   Glass Animals (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Heat%20Waves%20-%20Glass%20Animals.mp3",
+      "localUrl": null,
+      "fileName": "Heat Waves - Glass Animals.mp3"
+    },
+    {
+      "title": "Heather   Conan Gray (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Heather%20-%20Conan%20Gray.mp3",
+      "localUrl": null,
+      "fileName": "Heather - Conan Gray.mp3"
+    },
+    {
+      "title": "Hex   80purppp (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Hex%20-%2080purppp.mp3",
+      "localUrl": null,
+      "fileName": "Hex - 80purppp.mp3"
+    },
+    {
+      "title": "Hey Soul Sister   Train (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Hey%20Soul%20Sister%20-%20Train.mp3",
+      "localUrl": null,
+      "fileName": "Hey Soul Sister - Train.mp3"
+    },
+    {
+      "title": "Homage   Mild High Club (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Homage%20-%20Mild%20High%20Club.mp3",
+      "localUrl": null,
+      "fileName": "Homage - Mild High Club.mp3"
+    },
+    {
+      "title": "Honeypie   JAWNY (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Honeypie%20-%20JAWNY.mp3",
+      "localUrl": null,
+      "fileName": "Honeypie - JAWNY.mp3"
+    },
+    {
+      "title": "I Aint Worried   OneRepublic (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/I%20Aint%20Worried%20-%20OneRepublic.mp3",
+      "localUrl": null,
+      "fileName": "I Aint Worried - OneRepublic.mp3"
+    },
+    {
+      "title": "I Feel It Coming   The WeekndDaft Punk (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/I%20Feel%20It%20Coming%20-%20The%20WeekndDaft%20Punk.mp3",
+      "localUrl": null,
+      "fileName": "I Feel It Coming - The WeekndDaft Punk.mp3"
+    },
+    {
+      "title": "I Love You So   The Walters (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/I%20Love%20You%20So%20-%20The%20Walters.mp3",
+      "localUrl": null,
+      "fileName": "I Love You So - The Walters.mp3"
+    },
+    {
+      "title": "IDGAF with blackbear   BoyWithUkeblackbear (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/IDGAF%20with%20blackbear%20-%20BoyWithUkeblackbear.mp3",
+      "localUrl": null,
+      "fileName": "IDGAF with blackbear - BoyWithUkeblackbear.mp3"
+    },
+    {
+      "title": "INDUSTRY BABY feat. Jack Harlow   Lil Nas XJack Harlow (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/INDUSTRY%20BABY%20feat.%20Jack%20Harlow%20-%20Lil%20Nas%20XJack%20Harlow.mp3",
+      "localUrl": null,
+      "fileName": "INDUSTRY BABY feat. Jack Harlow - Lil Nas XJack Harlow.mp3"
+    },
+    {
+      "title": "Let Her Go   Passenger (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Let%20Her%20Go%20-%20Passenger.mp3",
+      "localUrl": null,
+      "fileName": "Let Her Go - Passenger.mp3"
+    },
+    {
+      "title": "Let Me Love You   DJ SnakeJustin Bieber (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Let%20Me%20Love%20You%20-%20DJ%20SnakeJustin%20Bieber.mp3",
+      "localUrl": null,
+      "fileName": "Let Me Love You - DJ SnakeJustin Bieber.mp3"
+    },
+    {
+      "title": "Levitating feat. DaBaby   Dua LipaDaBaby (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Levitating%20feat.%20DaBaby%20-%20Dua%20LipaDaBaby.mp3",
+      "localUrl": null,
+      "fileName": "Levitating feat. DaBaby - Dua LipaDaBaby.mp3"
+    },
+    {
+      "title": "Littleroot Town From Pokemon Ruby   Chippy Bits (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Littleroot%20Town%20From%20Pokemon%20Ruby%20-%20Chippy%20Bits.mp3",
+      "localUrl": null,
+      "fileName": "Littleroot Town From Pokemon Ruby - Chippy Bits.mp3"
+    },
+    {
+      "title": "Locked out of Heaven   Bruno Mars (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Locked%20out%20of%20Heaven%20-%20Bruno%20Mars.mp3",
+      "localUrl": null,
+      "fileName": "Locked out of Heaven - Bruno Mars.mp3"
+    },
+    {
+      "title": "Long Drives   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Long%20Drives%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "Long Drives - BoyWithUke.mp3"
+    },
+    {
+      "title": "LoveSick   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/LoveSick%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "LoveSick - BoyWithUke.mp3"
+    },
+    {
+      "title": "Loverboy   A Wall (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Loverboy%20-%20A-Wall.mp3",
+      "localUrl": null,
+      "fileName": "Loverboy - A-Wall.mp3"
+    },
+    {
+      "title": "Lucid Dreams   Juice WRLD (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Lucid%20Dreams%20-%20Juice%20WRLD.mp3",
+      "localUrl": null,
+      "fileName": "Lucid Dreams - Juice WRLD.mp3"
+    },
+    {
+      "title": "MEMORIES   347aidan (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/MEMORIES%20-%20347aidan.mp3",
+      "localUrl": null,
+      "fileName": "MEMORIES - 347aidan.mp3"
+    },
+    {
+      "title": "Mood feat. iann dior   24kGoldniann dior (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Mood%20feat.%20iann%20dior%20-%2024kGoldniann%20dior.mp3",
+      "localUrl": null,
+      "fileName": "Mood feat. iann dior - 24kGoldniann dior.mp3"
+    },
+    {
+      "title": "Moves Like Jagger   Studio Recording From The Voice Performance   Maroon 5Christina Aguilera (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Moves%20Like%20Jagger%20-%20Studio%20Recording%20From%20The%20Voice%20Performance%20-%20Maroon%205Christina%20Aguilera.mp3",
+      "localUrl": null,
+      "fileName": "Moves Like Jagger - Studio Recording From The Voice Performance - Maroon 5Christina Aguilera.mp3"
+    },
+    {
+      "title": "No Lie   Sean PaulDua Lipa (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/No%20Lie%20-%20Sean%20PaulDua%20Lipa.mp3",
+      "localUrl": null,
+      "fileName": "No Lie - Sean PaulDua Lipa.mp3"
+    },
+    {
+      "title": "Notion   The Rare Occasions (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Notion%20-%20The%20Rare%20Occasions.mp3",
+      "localUrl": null,
+      "fileName": "Notion - The Rare Occasions.mp3"
+    },
+    {
+      "title": "Nyan Cat Theme   Digidudes (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Nyan%20Cat%20Theme%20-%20Digidudes.mp3",
+      "localUrl": null,
+      "fileName": "Nyan Cat Theme - Digidudes.mp3"
+    },
+    {
+      "title": "One Kiss with Dua Lipa   Calvin HarrisDua Lipa (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/One%20Kiss%20with%20Dua%20Lipa%20-%20Calvin%20HarrisDua%20Lipa.mp3",
+      "localUrl": null,
+      "fileName": "One Kiss with Dua Lipa - Calvin HarrisDua Lipa.mp3"
+    },
+    {
+      "title": "Out Of Reach   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Out%20Of%20Reach%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "Out Of Reach - BoyWithUke.mp3"
+    },
+    {
+      "title": "Overwhelmed Ryan Mack Remix   Ryan Mack (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Overwhelmed%20Ryan%20Mack%20Remix%20-%20Ryan%20Mack.mp3",
+      "localUrl": null,
+      "fileName": "Overwhelmed Ryan Mack Remix - Ryan Mack.mp3"
+    },
+    {
+      "title": "Payphone   Maroon 5Wiz Khalifa (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Payphone%20-%20Maroon%205Wiz%20Khalifa.mp3",
+      "localUrl": null,
+      "fileName": "Payphone - Maroon 5Wiz Khalifa.mp3"
+    },
+    {
+      "title": "Perfect   Ed Sheeran (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Perfect%20-%20Ed%20Sheeran.mp3",
+      "localUrl": null,
+      "fileName": "Perfect - Ed Sheeran.mp3"
+    },
+    {
+      "title": "Play Date   Melanie Martinez (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Play%20Date%20-%20Melanie%20Martinez.mp3",
+      "localUrl": null,
+      "fileName": "Play Date - Melanie Martinez.mp3"
+    },
+    {
+      "title": "Pompeii   Bastille (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Pompeii%20-%20Bastille.mp3",
+      "localUrl": null,
+      "fileName": "Pompeii - Bastille.mp3"
+    },
+    {
+      "title": "Revenge   XXXTENTACION (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Revenge%20-%20XXXTENTACION.mp3",
+      "localUrl": null,
+      "fileName": "Revenge - XXXTENTACION.mp3"
+    },
+    {
+      "title": "Riptide   Vance Joy (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Riptide%20-%20Vance%20Joy.mp3",
+      "localUrl": null,
+      "fileName": "Riptide - Vance Joy.mp3"
+    },
+    {
+      "title": "River Flows In You   Yiruma (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/River%20Flows%20In%20You%20-%20Yiruma.mp3",
+      "localUrl": null,
+      "fileName": "River Flows In You - Yiruma.mp3"
+    },
+    {
+      "title": "SAD   XXXTENTACION (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/SAD%20-%20XXXTENTACION.mp3",
+      "localUrl": null,
+      "fileName": "SAD - XXXTENTACION.mp3"
+    },
+    {
+      "title": "STAY with Justin Bieber   The Kid LAROIJustin Bieber (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/STAY%20with%20Justin%20Bieber%20-%20The%20Kid%20LAROIJustin%20Bieber.mp3",
+      "localUrl": null,
+      "fileName": "STAY with Justin Bieber - The Kid LAROIJustin Bieber.mp3"
+    },
+    {
+      "title": "Save Your Tears   The Weeknd (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Save%20Your%20Tears%20-%20The%20Weeknd.mp3",
+      "localUrl": null,
+      "fileName": "Save Your Tears - The Weeknd.mp3"
+    },
+    {
+      "title": "Seorita   Shawn MendesCamila Cabello (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Seorita%20-%20Shawn%20MendesCamila%20Cabello.mp3",
+      "localUrl": null,
+      "fileName": "Seorita - Shawn MendesCamila Cabello.mp3"
+    },
+    {
+      "title": "Shape of You   Ed Sheeran (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Shape%20of%20You%20-%20Ed%20Sheeran.mp3",
+      "localUrl": null,
+      "fileName": "Shape of You - Ed Sheeran.mp3"
+    },
+    {
+      "title": "She Said No   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/She%20Said%20No%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "She Said No - BoyWithUke.mp3"
+    },
+    {
+      "title": "Shut up My Moms Calling   Hotel Ugly (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Shut%20up%20My%20Moms%20Calling%20-%20Hotel%20Ugly.mp3",
+      "localUrl": null,
+      "fileName": "Shut up My Moms Calling - Hotel Ugly.mp3"
+    },
+    {
+      "title": "Sick of U with Oliver Tree   BoyWithUkeOliver Tree (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Sick%20of%20U%20with%20Oliver%20Tree%20-%20BoyWithUkeOliver%20Tree.mp3",
+      "localUrl": null,
+      "fileName": "Sick of U with Oliver Tree - BoyWithUkeOliver Tree.mp3"
+    },
+    {
+      "title": "Snowman   Sia (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Snowman%20-%20Sia.mp3",
+      "localUrl": null,
+      "fileName": "Snowman - Sia.mp3"
+    },
+    {
+      "title": "Somebody That I Used To Know   GotyeKimbra (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Somebody%20That%20I%20Used%20To%20Know%20-%20GotyeKimbra.mp3",
+      "localUrl": null,
+      "fileName": "Somebody That I Used To Know - GotyeKimbra.mp3"
+    },
+    {
+      "title": "Something Just Like This   The ChainsmokersColdplay (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Something%20Just%20Like%20This%20-%20The%20ChainsmokersColdplay.mp3",
+      "localUrl": null,
+      "fileName": "Something Just Like This - The ChainsmokersColdplay.mp3"
+    },
+    {
+      "title": "Stereo Hearts feat. Adam Levine   Gym Class HeroesAdam Levine (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Stereo%20Hearts%20feat.%20Adam%20Levine%20-%20Gym%20Class%20HeroesAdam%20Levine.mp3",
+      "localUrl": null,
+      "fileName": "Stereo Hearts feat. Adam Levine - Gym Class HeroesAdam Levine.mp3"
+    },
+    {
+      "title": "Stitches   Shawn Mendes (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Stitches%20-%20Shawn%20Mendes.mp3",
+      "localUrl": null,
+      "fileName": "Stitches - Shawn Mendes.mp3"
+    },
+    {
+      "title": "Strip That Down feat. Quavo   Liam PayneQuavo (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Strip%20That%20Down%20feat.%20Quavo%20-%20Liam%20PayneQuavo.mp3",
+      "localUrl": null,
+      "fileName": "Strip That Down feat. Quavo - Liam PayneQuavo.mp3"
+    },
+    {
+      "title": "Summer   Calvin Harris (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Summer%20-%20Calvin%20Harris.mp3",
+      "localUrl": null,
+      "fileName": "Summer - Calvin Harris.mp3"
+    },
+    {
+      "title": "Sunflower   Spider Man Into the Spider Verse   Post MaloneSwae Lee (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Sunflower%20-%20Spider-Man%20Into%20the%20Spider-Verse%20-%20Post%20MaloneSwae%20Lee.mp3",
+      "localUrl": null,
+      "fileName": "Sunflower - Spider-Man Into the Spider-Verse - Post MaloneSwae Lee.mp3"
+    },
+    {
+      "title": "Sunroof   Nicky Youre hey daisy (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Sunroof%20-%20Nicky%20Youre%20hey%20daisy.mp3",
+      "localUrl": null,
+      "fileName": "Sunroof - Nicky Youre hey daisy.mp3"
+    },
+    {
+      "title": "Sweater Weather   The Neighbourhood (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Sweater%20Weather%20-%20The%20Neighbourhood.mp3",
+      "localUrl": null,
+      "fileName": "Sweater Weather - The Neighbourhood.mp3"
+    },
+    {
+      "title": "Symphony feat. Zara Larsson   Clean BanditZara Larsson (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Symphony%20feat.%20Zara%20Larsson%20-%20Clean%20BanditZara%20Larsson.mp3",
+      "localUrl": null,
+      "fileName": "Symphony feat. Zara Larsson - Clean BanditZara Larsson.mp3"
+    },
+    {
+      "title": "Thats What I Like   Bruno Mars (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Thats%20What%20I%20Like%20-%20Bruno%20Mars.mp3",
+      "localUrl": null,
+      "fileName": "Thats What I Like - Bruno Mars.mp3"
+    },
+    {
+      "title": "The Less I Know The Better   Tame Impala (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/The%20Less%20I%20Know%20The%20Better%20-%20Tame%20Impala.mp3",
+      "localUrl": null,
+      "fileName": "The Less I Know The Better - Tame Impala.mp3"
+    },
+    {
+      "title": "The Nights   Avicii (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/The%20Nights%20-%20Avicii.mp3",
+      "localUrl": null,
+      "fileName": "The Nights - Avicii.mp3"
+    },
+    {
+      "title": "The Real Slim Shady   Eminem (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/The%20Real%20Slim%20Shady%20-%20Eminem.mp3",
+      "localUrl": null,
+      "fileName": "The Real Slim Shady - Eminem.mp3"
+    },
+    {
+      "title": "Theres Nothing Holdin Me Back   Shawn Mendes (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Theres%20Nothing%20Holdin%20Me%20Back%20-%20Shawn%20Mendes.mp3",
+      "localUrl": null,
+      "fileName": "Theres Nothing Holdin Me Back - Shawn Mendes.mp3"
+    },
+    {
+      "title": "Thunder   Imagine Dragons (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Thunder%20-%20Imagine%20Dragons.mp3",
+      "localUrl": null,
+      "fileName": "Thunder - Imagine Dragons.mp3"
+    },
+    {
+      "title": "Toxic   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Toxic%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "Toxic - BoyWithUke.mp3"
+    },
+    {
+      "title": "Trap Anthem   MC Virgins Yun Head (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Trap%20Anthem%20-%20MC%20Virgins%20Yun%20Head.mp3",
+      "localUrl": null,
+      "fileName": "Trap Anthem - MC Virgins Yun Head.mp3"
+    },
+    {
+      "title": "Treat You Better   Shawn Mendes (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Treat%20You%20Better%20-%20Shawn%20Mendes.mp3",
+      "localUrl": null,
+      "fileName": "Treat You Better - Shawn Mendes.mp3"
+    },
+    {
+      "title": "Two Moons   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Two%20Moons%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "Two Moons - BoyWithUke.mp3"
+    },
+    {
+      "title": "Understand   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Understand%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "Understand - BoyWithUke.mp3"
+    },
+    {
+      "title": "Unknown   YOASOBI (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Unknown%20-%20YOASOBI.mp3",
+      "localUrl": null,
+      "fileName": "Unknown - YOASOBI.mp3"
+    },
+    {
+      "title": "Until I Found You   Stephen Sanchez (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Until%20I%20Found%20You%20-%20Stephen%20Sanchez.mp3",
+      "localUrl": null,
+      "fileName": "Until I Found You - Stephen Sanchez.mp3"
+    },
+    {
+      "title": "Until I Found You with Em Beihold   Em Beihold Version   Stephen SanchezEm Beihold (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Until%20I%20Found%20You%20with%20Em%20Beihold%20-%20Em%20Beihold%20Version%20-%20Stephen%20SanchezEm%20Beihold.mp3",
+      "localUrl": null,
+      "fileName": "Until I Found You with Em Beihold - Em Beihold Version - Stephen SanchezEm Beihold.mp3"
+    },
+    {
+      "title": "Viva La Vida   Coldplay (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Viva%20La%20Vida%20-%20Coldplay.mp3",
+      "localUrl": null,
+      "fileName": "Viva La Vida - Coldplay.mp3"
+    },
+    {
+      "title": "Waiting For Love   Avicii (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Waiting%20For%20Love%20-%20Avicii.mp3",
+      "localUrl": null,
+      "fileName": "Waiting For Love - Avicii.mp3"
+    },
+    {
+      "title": "Watermelon Sugar   Harry Styles (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Watermelon%20Sugar%20-%20Harry%20Styles.mp3",
+      "localUrl": null,
+      "fileName": "Watermelon Sugar - Harry Styles.mp3"
+    },
+    {
+      "title": "Wellerman   Sea Shanty   Nathan Evans (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Wellerman%20-%20Sea%20Shanty%20-%20Nathan%20Evans.mp3",
+      "localUrl": null,
+      "fileName": "Wellerman - Sea Shanty - Nathan Evans.mp3"
+    },
+    {
+      "title": "When I Was Your Man   Bruno Mars (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/When%20I%20Was%20Your%20Man%20-%20Bruno%20Mars.mp3",
+      "localUrl": null,
+      "fileName": "When I Was Your Man - Bruno Mars.mp3"
+    },
+    {
+      "title": "Young Dumb Broke   Khalid (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Young%20Dumb%20Broke%20-%20Khalid.mp3",
+      "localUrl": null,
+      "fileName": "Young Dumb Broke - Khalid.mp3"
+    },
+    {
+      "title": "Young Girl A   Siinamota (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/Young%20Girl%20A%20-%20Siinamota.mp3",
+      "localUrl": null,
+      "fileName": "Young Girl A - Siinamota.mp3"
+    },
+    {
+      "title": "death bed coffee for your head   Powfubeabadoobee (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/death%20bed%20coffee%20for%20your%20head%20-%20Powfubeabadoobee.mp3",
+      "localUrl": null,
+      "fileName": "death bed coffee for your head - Powfubeabadoobee.mp3"
+    },
+    {
+      "title": "golden hour   JVKE (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/golden%20hour%20-%20JVKE.mp3",
+      "localUrl": null,
+      "fileName": "golden hour - JVKE.mp3"
+    },
+    {
+      "title": "hot girl bummer   blackbear (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/hot%20girl%20bummer%20-%20blackbear.mp3",
+      "localUrl": null,
+      "fileName": "hot girl bummer - blackbear.mp3"
+    },
+    {
+      "title": "lovely with Khalid   Billie EilishKhalid (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/lovely%20with%20Khalid%20-%20Billie%20EilishKhalid.mp3",
+      "localUrl": null,
+      "fileName": "lovely with Khalid - Billie EilishKhalid.mp3"
+    },
+    {
+      "title": "queen of broken hearts   blackbear (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/queen%20of%20broken%20hearts%20-%20blackbear.mp3",
+      "localUrl": null,
+      "fileName": "queen of broken hearts - blackbear.mp3"
+    },
+    {
+      "title": "this is what falling in love feels like   JVKE (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/AllTimeTopSyd/this%20is%20what%20falling%20in%20love%20feels%20like%20-%20JVKE.mp3",
+      "localUrl": null,
+      "fileName": "this is what falling in love feels like - JVKE.mp3"
+    }
+  ],
+  "Syd": [
+    {
+      "title": "100 Bad Days   AJR (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/100%20Bad%20Days%20-%20AJR.mp3",
+      "localUrl": null,
+      "fileName": "100 Bad Days - AJR.mp3"
+    },
+    {
+      "title": "1992   YNG Martyr (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/1992%20-%20YNG%20Martyr.mp3",
+      "localUrl": null,
+      "fileName": "1992 - YNG Martyr.mp3"
+    },
+    {
+      "title": "21 Guns   Green Day (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/21%20Guns%20-%20Green%20Day.mp3",
+      "localUrl": null,
+      "fileName": "21 Guns - Green Day.mp3"
+    },
+    {
+      "title": "3435   Ariana Grande (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/3435%20-%20Ariana%20Grande.mp3",
+      "localUrl": null,
+      "fileName": "3435 - Ariana Grande.mp3"
+    },
+    {
+      "title": "7 Years   Lukas Graham (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/7%20Years%20-%20Lukas%20Graham.mp3",
+      "localUrl": null,
+      "fileName": "7 Years - Lukas Graham.mp3"
+    },
+    {
+      "title": "911   Trevor Daniel (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/911%20-%20Trevor%20Daniel.mp3",
+      "localUrl": null,
+      "fileName": "911 - Trevor Daniel.mp3"
+    },
+    {
+      "title": "A Sky Full of Stars   Coldplay (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/A%20Sky%20Full%20of%20Stars%20-%20Coldplay.mp3",
+      "localUrl": null,
+      "fileName": "A Sky Full of Stars - Coldplay.mp3"
+    },
+    {
+      "title": "Ainsi bas la vida   Indila (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Ainsi%20bas%20la%20vida%20-%20Indila.mp3",
+      "localUrl": null,
+      "fileName": "Ainsi bas la vida - Indila.mp3"
+    },
+    {
+      "title": "All Around The World La La La   R3HAB A Touch Of Class (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/All%20Around%20The%20World%20La%20La%20La%20-%20R3HAB%20A%20Touch%20Of%20Class.mp3",
+      "localUrl": null,
+      "fileName": "All Around The World La La La - R3HAB A Touch Of Class.mp3"
+    },
+    {
+      "title": "All Night   Icona Pop (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/All%20Night%20-%20Icona%20Pop.mp3",
+      "localUrl": null,
+      "fileName": "All Night - Icona Pop.mp3"
+    },
+    {
+      "title": "All Night   mishlawi (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/All%20Night%20-%20mishlawi.mp3",
+      "localUrl": null,
+      "fileName": "All Night - mishlawi.mp3"
+    },
+    {
+      "title": "All Star   Smash Mouth (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/All%20Star%20-%20Smash%20Mouth.mp3",
+      "localUrl": null,
+      "fileName": "All Star - Smash Mouth.mp3"
+    },
+    {
+      "title": "All the Way I Believe In Steve   Jacksepticeye The Gregory Brothers (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/All%20the%20Way%20I%20Believe%20In%20Steve%20-%20Jacksepticeye%20The%20Gregory%20Brothers.mp3",
+      "localUrl": null,
+      "fileName": "All the Way I Believe In Steve - Jacksepticeye The Gregory Brothers.mp3"
+    },
+    {
+      "title": "Alone   Marshmello (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Alone%20-%20Marshmello.mp3",
+      "localUrl": null,
+      "fileName": "Alone - Marshmello.mp3"
+    },
+    {
+      "title": "Always Forever   Cults (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Always%20Forever%20-%20Cults.mp3",
+      "localUrl": null,
+      "fileName": "Always Forever - Cults.mp3"
+    },
+    {
+      "title": "Amend   jpn (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Amend%20-%20jpn.mp3",
+      "localUrl": null,
+      "fileName": "Amend - jpn.mp3"
+    },
+    {
+      "title": "Animals   Maroon 5 (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Animals%20-%20Maroon%205.mp3",
+      "localUrl": null,
+      "fileName": "Animals - Maroon 5.mp3"
+    },
+    {
+      "title": "Animals   Martin Garrix (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Animals%20-%20Martin%20Garrix.mp3",
+      "localUrl": null,
+      "fileName": "Animals - Martin Garrix.mp3"
+    },
+    {
+      "title": "As the World Caves In   Matt Maltese (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/As%20the%20World%20Caves%20In%20-%20Matt%20Maltese.mp3",
+      "localUrl": null,
+      "fileName": "As the World Caves In - Matt Maltese.mp3"
+    },
+    {
+      "title": "Ashes   Stellar (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Ashes%20-%20Stellar.mp3",
+      "localUrl": null,
+      "fileName": "Ashes - Stellar.mp3"
+    },
+    {
+      "title": "Astronaut In The Ocean   Masked Wolf (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Astronaut%20In%20The%20Ocean%20-%20Masked%20Wolf.mp3",
+      "localUrl": null,
+      "fileName": "Astronaut In The Ocean - Masked Wolf.mp3"
+    },
+    {
+      "title": "At Least It Was Here Community Main Title Full Length Version   The 88 (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/At%20Least%20It%20Was%20Here%20Community%20Main%20Title%20Full%20Length%20Version%20-%20The%2088.mp3",
+      "localUrl": null,
+      "fileName": "At Least It Was Here Community Main Title Full Length Version - The 88.mp3"
+    },
+    {
+      "title": "BIG SHOT   Toby Fox (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/BIG%20SHOT%20-%20Toby%20Fox.mp3",
+      "localUrl": null,
+      "fileName": "BIG SHOT - Toby Fox.mp3"
+    },
+    {
+      "title": "Bad Liar   Imagine Dragons (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Bad%20Liar%20-%20Imagine%20Dragons.mp3",
+      "localUrl": null,
+      "fileName": "Bad Liar - Imagine Dragons.mp3"
+    },
+    {
+      "title": "Bad Piggies Drip   Sardine Slayer (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Bad%20Piggies%20Drip%20-%20Sardine%20Slayer.mp3",
+      "localUrl": null,
+      "fileName": "Bad Piggies Drip - Sardine Slayer.mp3"
+    },
+    {
+      "title": "Bang   AJR (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Bang%20-%20AJR.mp3",
+      "localUrl": null,
+      "fileName": "Bang - AJR.mp3"
+    },
+    {
+      "title": "Bangarang feat. Sirah   Skrillex Sirah (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Bangarang%20feat.%20Sirah%20-%20Skrillex%20Sirah.mp3",
+      "localUrl": null,
+      "fileName": "Bangarang feat. Sirah - Skrillex Sirah.mp3"
+    },
+    {
+      "title": "Bars No Jutsu   Louis Capone (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Bars%20No%20Jutsu%20-%20Louis%20Capone.mp3",
+      "localUrl": null,
+      "fileName": "Bars No Jutsu - Louis Capone.mp3"
+    },
+    {
+      "title": "Bassthoven   Kyle Exum Shawn Wasabi (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Bassthoven%20-%20Kyle%20Exum%20Shawn%20Wasabi.mp3",
+      "localUrl": null,
+      "fileName": "Bassthoven - Kyle Exum Shawn Wasabi.mp3"
+    },
+    {
+      "title": "Battle Against A True Hero   Toby Fox (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Battle%20Against%20A%20True%20Hero%20-%20Toby%20Fox.mp3",
+      "localUrl": null,
+      "fileName": "Battle Against A True Hero - Toby Fox.mp3"
+    },
+    {
+      "title": "Battle Royale feat. Panther   VIP Mix   ApashePanther (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Battle%20Royale%20feat.%20Panther%20-%20VIP%20Mix%20-%20ApashePanther.mp3",
+      "localUrl": null,
+      "fileName": "Battle Royale feat. Panther - VIP Mix - ApashePanther.mp3"
+    },
+    {
+      "title": "Big Dawgs   Hanumankind Kalmi (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Big%20Dawgs%20-%20Hanumankind%20Kalmi.mp3",
+      "localUrl": null,
+      "fileName": "Big Dawgs - Hanumankind Kalmi.mp3"
+    },
+    {
+      "title": "Big Iron   Marty Robbins (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Big%20Iron%20-%20Marty%20Robbins.mp3",
+      "localUrl": null,
+      "fileName": "Big Iron - Marty Robbins.mp3"
+    },
+    {
+      "title": "Blank Space   Taylor Swift (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Blank%20Space%20-%20Taylor%20Swift.mp3",
+      "localUrl": null,
+      "fileName": "Blank Space - Taylor Swift.mp3"
+    },
+    {
+      "title": "Blinding Lights   The Weeknd (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Blinding%20Lights%20-%20The%20Weeknd.mp3",
+      "localUrl": null,
+      "fileName": "Blinding Lights - The Weeknd.mp3"
+    },
+    {
+      "title": "Blue Bird From Naruto Shippuden   Akano (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Blue%20Bird%20From%20Naruto%20Shippuden%20-%20Akano.mp3",
+      "localUrl": null,
+      "fileName": "Blue Bird From Naruto Shippuden - Akano.mp3"
+    },
+    {
+      "title": "Bones   Imagine Dragons (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Bones%20-%20Imagine%20Dragons.mp3",
+      "localUrl": null,
+      "fileName": "Bones - Imagine Dragons.mp3"
+    },
+    {
+      "title": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom   Dan Bull (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Boom%20Boom%20Boom%20Boom%20Boom%20Boom%20Boom%20Boom%20Boom%20Boom%20Boom%20Boom%20Boom%20-%20Dan%20Bull.mp3",
+      "localUrl": null,
+      "fileName": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom - Dan Bull.mp3"
+    },
+    {
+      "title": "Boulevard of Broken Dreams   Green Day (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Boulevard%20of%20Broken%20Dreams%20-%20Green%20Day.mp3",
+      "localUrl": null,
+      "fileName": "Boulevard of Broken Dreams - Green Day.mp3"
+    },
+    {
+      "title": "Boy   Shao Dow (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Boy%20-%20Shao%20Dow.mp3",
+      "localUrl": null,
+      "fileName": "Boy - Shao Dow.mp3"
+    },
+    {
+      "title": "Boyz Crazy Medley   Sevral Timez (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Boyz%20Crazy%20Medley%20-%20Sevral%20Timez.mp3",
+      "localUrl": null,
+      "fileName": "Boyz Crazy Medley - Sevral Timez.mp3"
+    },
+    {
+      "title": "Bum Bum Tam Tam   MC FiotiFutureJ BalvinStefflon DonJuan Magn (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Bum%20Bum%20Tam%20Tam%20-%20MC%20FiotiFutureJ%20BalvinStefflon%20DonJuan%20Magn.mp3",
+      "localUrl": null,
+      "fileName": "Bum Bum Tam Tam - MC FiotiFutureJ BalvinStefflon DonJuan Magn.mp3"
+    },
+    {
+      "title": "Burn the House Down   AJR (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Burn%20the%20House%20Down%20-%20AJR.mp3",
+      "localUrl": null,
+      "fileName": "Burn the House Down - AJR.mp3"
+    },
+    {
+      "title": "Cake By The Ocean   DNCE (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Cake%20By%20The%20Ocean%20-%20DNCE.mp3",
+      "localUrl": null,
+      "fileName": "Cake By The Ocean - DNCE.mp3"
+    },
+    {
+      "title": "Candy Shop   50 CentOlivia (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Candy%20Shop%20-%2050%20CentOlivia.mp3",
+      "localUrl": null,
+      "fileName": "Candy Shop - 50 CentOlivia.mp3"
+    },
+    {
+      "title": "Cant Feel My Face   The Weeknd (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Cant%20Feel%20My%20Face%20-%20The%20Weeknd.mp3",
+      "localUrl": null,
+      "fileName": "Cant Feel My Face - The Weeknd.mp3"
+    },
+    {
+      "title": "Cant Pretend   Tom Odell (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Cant%20Pretend%20-%20Tom%20Odell.mp3",
+      "localUrl": null,
+      "fileName": "Cant Pretend - Tom Odell.mp3"
+    },
+    {
+      "title": "Centuries   Fall Out Boy (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Centuries%20-%20Fall%20Out%20Boy.mp3",
+      "localUrl": null,
+      "fileName": "Centuries - Fall Out Boy.mp3"
+    },
+    {
+      "title": "Chandelier   Sia (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Chandelier%20-%20Sia.mp3",
+      "localUrl": null,
+      "fileName": "Chandelier - Sia.mp3"
+    },
+    {
+      "title": "Chlorine   Twenty One Pilots (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Chlorine%20-%20Twenty%20One%20Pilots.mp3",
+      "localUrl": null,
+      "fileName": "Chlorine - Twenty One Pilots.mp3"
+    },
+    {
+      "title": "Chug Jug With You   Rok Nardin (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Chug%20Jug%20With%20You%20-%20Rok%20Nardin.mp3",
+      "localUrl": null,
+      "fileName": "Chug Jug With You - Rok Nardin.mp3"
+    },
+    {
+      "title": "City Boys   Burna Boy (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/City%20Boys%20-%20Burna%20Boy.mp3",
+      "localUrl": null,
+      "fileName": "City Boys - Burna Boy.mp3"
+    },
+    {
+      "title": "Coco   pewdiepie (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Coco%20-%20pewdiepie.mp3",
+      "localUrl": null,
+      "fileName": "Coco - pewdiepie.mp3"
+    },
+    {
+      "title": "Colour   MNEK Hailee Steinfeld (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Colour%20-%20MNEK%20Hailee%20Steinfeld.mp3",
+      "localUrl": null,
+      "fileName": "Colour - MNEK Hailee Steinfeld.mp3"
+    },
+    {
+      "title": "Come and Get Your Love   Single Version   Redbone (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Come%20and%20Get%20Your%20Love%20-%20Single%20Version%20-%20Redbone.mp3",
+      "localUrl": null,
+      "fileName": "Come and Get Your Love - Single Version - Redbone.mp3"
+    },
+    {
+      "title": "Counting Stars   OneRepublic (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Counting%20Stars%20-%20OneRepublic.mp3",
+      "localUrl": null,
+      "fileName": "Counting Stars - OneRepublic.mp3"
+    },
+    {
+      "title": "Crab Rave   Noisestorm (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Crab%20Rave%20-%20Noisestorm.mp3",
+      "localUrl": null,
+      "fileName": "Crab Rave - Noisestorm.mp3"
+    },
+    {
+      "title": "DANCE   1nonly Ciscaux Wassup Rocker (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/DANCE%20-%201nonly%20Ciscaux%20Wassup%20Rocker.mp3",
+      "localUrl": null,
+      "fileName": "DANCE - 1nonly Ciscaux Wassup Rocker.mp3"
+    },
+    {
+      "title": "Dancin   CG5 (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Dancin%20-%20CG5.mp3",
+      "localUrl": null,
+      "fileName": "Dancin - CG5.mp3"
+    },
+    {
+      "title": "Dancing with my phone   HYBS (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Dancing%20with%20my%20phone%20-%20HYBS.mp3",
+      "localUrl": null,
+      "fileName": "Dancing with my phone - HYBS.mp3"
+    },
+    {
+      "title": "Die Young   Kesha (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Die%20Young%20-%20Kesha.mp3",
+      "localUrl": null,
+      "fileName": "Die Young - Kesha.mp3"
+    },
+    {
+      "title": "Discord   The Living Tombstone Eurobeat Brony (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Discord%20-%20The%20Living%20Tombstone%20Eurobeat%20Brony.mp3",
+      "localUrl": null,
+      "fileName": "Discord - The Living Tombstone Eurobeat Brony.mp3"
+    },
+    {
+      "title": "Dont Stop Me Now   Queen (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Dont%20Stop%20Me%20Now%20-%20Queen.mp3",
+      "localUrl": null,
+      "fileName": "Dont Stop Me Now - Queen.mp3"
+    },
+    {
+      "title": "Dont You Need Somebody   RedOne Enrique Iglesias R. City Serayah Shaggy (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Dont%20You%20Need%20Somebody%20-%20RedOne%20Enrique%20Iglesias%20R.%20City%20Serayah%20Shaggy.mp3",
+      "localUrl": null,
+      "fileName": "Dont You Need Somebody - RedOne Enrique Iglesias R. City Serayah Shaggy.mp3"
+    },
+    {
+      "title": "Drag Me Down   One Direction (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Drag%20Me%20Down%20-%20One%20Direction.mp3",
+      "localUrl": null,
+      "fileName": "Drag Me Down - One Direction.mp3"
+    },
+    {
+      "title": "Drag Me Down   Twenty One Two (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Drag%20Me%20Down%20-%20Twenty%20One%20Two.mp3",
+      "localUrl": null,
+      "fileName": "Drag Me Down - Twenty One Two.mp3"
+    },
+    {
+      "title": "Electric Love   BRNS (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Electric%20Love%20-%20BRNS.mp3",
+      "localUrl": null,
+      "fileName": "Electric Love - BRNS.mp3"
+    },
+    {
+      "title": "Enemy   From the series Arcane League of Legends   Imagine Dragons Arcane League of Legends (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Enemy%20-%20From%20the%20series%20Arcane%20League%20of%20Legends%20-%20Imagine%20Dragons%20Arcane%20League%20of%20Legends.mp3",
+      "localUrl": null,
+      "fileName": "Enemy - From the series Arcane League of Legends - Imagine Dragons Arcane League of Legends.mp3"
+    },
+    {
+      "title": "Enemy with JID   from the series Arcane League of Legends   Imagine DragonsJIDArcaneLeague of Legends (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Enemy%20with%20JID%20-%20from%20the%20series%20Arcane%20League%20of%20Legends%20-%20Imagine%20DragonsJIDArcaneLeague%20of%20Legends.mp3",
+      "localUrl": null,
+      "fileName": "Enemy with JID - from the series Arcane League of Legends - Imagine DragonsJIDArcaneLeague of Legends.mp3"
+    },
+    {
+      "title": "Everything Black   Unlike Pluto Mike Taylor UPxMT (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Everything%20Black%20-%20Unlike%20Pluto%20Mike%20Taylor%20UPxMT.mp3",
+      "localUrl": null,
+      "fileName": "Everything Black - Unlike Pluto Mike Taylor UPxMT.mp3"
+    },
+    {
+      "title": "Fallen Kingdom   Abtmelody (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Fallen%20Kingdom%20-%20Abtmelody.mp3",
+      "localUrl": null,
+      "fileName": "Fallen Kingdom - Abtmelody.mp3"
+    },
+    {
+      "title": "Fallen Kingdom   Captainsparklez Tryhardninja (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Fallen%20Kingdom%20-%20Captainsparklez%20Tryhardninja.mp3",
+      "localUrl": null,
+      "fileName": "Fallen Kingdom - Captainsparklez Tryhardninja.mp3"
+    },
+    {
+      "title": "Falling for U   Peachy mxmtoon (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Falling%20for%20U%20-%20Peachy%20mxmtoon.mp3",
+      "localUrl": null,
+      "fileName": "Falling for U - Peachy mxmtoon.mp3"
+    },
+    {
+      "title": "Fireflies   Owl City (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Fireflies%20-%20Owl%20City.mp3",
+      "localUrl": null,
+      "fileName": "Fireflies - Owl City.mp3"
+    },
+    {
+      "title": "Firework   Katy Perry (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Firework%20-%20Katy%20Perry.mp3",
+      "localUrl": null,
+      "fileName": "Firework - Katy Perry.mp3"
+    },
+    {
+      "title": "Five More Hours   Deorro Chris Brown (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Five%20More%20Hours%20-%20Deorro%20Chris%20Brown.mp3",
+      "localUrl": null,
+      "fileName": "Five More Hours - Deorro Chris Brown.mp3"
+    },
+    {
+      "title": "Five Nights at Freddys   The Living Tombstone (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Five%20Nights%20at%20Freddys%20-%20The%20Living%20Tombstone.mp3",
+      "localUrl": null,
+      "fileName": "Five Nights at Freddys - The Living Tombstone.mp3"
+    },
+    {
+      "title": "Flat Earth   Clown Core (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Flat%20Earth%20-%20Clown%20Core.mp3",
+      "localUrl": null,
+      "fileName": "Flat Earth - Clown Core.mp3"
+    },
+    {
+      "title": "Fly Me To The Moon   Frank Sinatra (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Fly%20Me%20To%20The%20Moon%20-%20Frank%20Sinatra.mp3",
+      "localUrl": null,
+      "fileName": "Fly Me To The Moon - Frank Sinatra.mp3"
+    },
+    {
+      "title": "GOTHAM   TOKYOS REVENGE (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/GOTHAM%20-%20TOKYOS%20REVENGE.mp3",
+      "localUrl": null,
+      "fileName": "GOTHAM - TOKYOS REVENGE.mp3"
+    },
+    {
+      "title": "Gangnam Style   PSY (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Gangnam%20Style%20-%20PSY.mp3",
+      "localUrl": null,
+      "fileName": "Gangnam Style - PSY.mp3"
+    },
+    {
+      "title": "Get Lucky Radio Edit feat. Pharrell Williams and Nile Rodgers   Daft Punk Pharrell Williams Nile Rodgers (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Get%20Lucky%20Radio%20Edit%20feat.%20Pharrell%20Williams%20and%20Nile%20Rodgers%20-%20Daft%20Punk%20Pharrell%20Williams%20Nile%20Rodgers.mp3",
+      "localUrl": null,
+      "fileName": "Get Lucky Radio Edit feat. Pharrell Williams and Nile Rodgers - Daft Punk Pharrell Williams Nile Rodgers.mp3"
+    },
+    {
+      "title": "Glitter Gold   Barns Courtney (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Glitter%20Gold%20-%20Barns%20Courtney.mp3",
+      "localUrl": null,
+      "fileName": "Glitter Gold - Barns Courtney.mp3"
+    },
+    {
+      "title": "Good Feeling   Flo Rida (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Good%20Feeling%20-%20Flo%20Rida.mp3",
+      "localUrl": null,
+      "fileName": "Good Feeling - Flo Rida.mp3"
+    },
+    {
+      "title": "Good Person   TheOdd1sOut Roomie (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Good%20Person%20-%20TheOdd1sOut%20Roomie.mp3",
+      "localUrl": null,
+      "fileName": "Good Person - TheOdd1sOut Roomie.mp3"
+    },
+    {
+      "title": "Goosebumps   Remix   Travis Scott HVME (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Goosebumps%20-%20Remix%20-%20Travis%20Scott%20HVME.mp3",
+      "localUrl": null,
+      "fileName": "Goosebumps - Remix - Travis Scott HVME.mp3"
+    },
+    {
+      "title": "Goosebumps   Travis ScottKendrick Lamar (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Goosebumps%20-%20Travis%20ScottKendrick%20Lamar.mp3",
+      "localUrl": null,
+      "fileName": "Goosebumps - Travis ScottKendrick Lamar.mp3"
+    },
+    {
+      "title": "Gravity Falls Main Theme From Gravity Falls   Geek Music (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Gravity%20Falls%20Main%20Theme%20From%20Gravity%20Falls%20-%20Geek%20Music.mp3",
+      "localUrl": null,
+      "fileName": "Gravity Falls Main Theme From Gravity Falls - Geek Music.mp3"
+    },
+    {
+      "title": "Happier   Marshmello Bastille (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Happier%20-%20Marshmello%20Bastille.mp3",
+      "localUrl": null,
+      "fileName": "Happier - Marshmello Bastille.mp3"
+    },
+    {
+      "title": "Heat Waves   Glass Animals (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Heat%20Waves%20-%20Glass%20Animals.mp3",
+      "localUrl": null,
+      "fileName": "Heat Waves - Glass Animals.mp3"
+    },
+    {
+      "title": "Heathens   Twenty One Pilots (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Heathens%20-%20Twenty%20One%20Pilots.mp3",
+      "localUrl": null,
+      "fileName": "Heathens - Twenty One Pilots.mp3"
+    },
+    {
+      "title": "Help Oh Well...   SomeThingElseyt (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Help%20Oh%20Well...%20-%20SomeThingElseyt.mp3",
+      "localUrl": null,
+      "fileName": "Help Oh Well... - SomeThingElseyt.mp3"
+    },
+    {
+      "title": "Hey Brother   Avicii (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Hey%20Brother%20-%20Avicii.mp3",
+      "localUrl": null,
+      "fileName": "Hey Brother - Avicii.mp3"
+    },
+    {
+      "title": "Homage   Mild High Club (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Homage%20-%20Mild%20High%20Club.mp3",
+      "localUrl": null,
+      "fileName": "Homage - Mild High Club.mp3"
+    },
+    {
+      "title": "Honeypie   JAWNY (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Honeypie%20-%20JAWNY.mp3",
+      "localUrl": null,
+      "fileName": "Honeypie - JAWNY.mp3"
+    },
+    {
+      "title": "Human   RagnBone Man (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Human%20-%20RagnBone%20Man.mp3",
+      "localUrl": null,
+      "fileName": "Human - RagnBone Man.mp3"
+    },
+    {
+      "title": "I Am A Gummy Bear   The Gummy Bear Song   Gummibr (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/I%20Am%20A%20Gummy%20Bear%20-%20The%20Gummy%20Bear%20Song%20-%20Gummibr.mp3",
+      "localUrl": null,
+      "fileName": "I Am A Gummy Bear - The Gummy Bear Song - Gummibr.mp3"
+    },
+    {
+      "title": "I Dont Wanna Be Free   Markiplier The Gregory Brothers (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/I%20Dont%20Wanna%20Be%20Free%20-%20Markiplier%20The%20Gregory%20Brothers.mp3",
+      "localUrl": null,
+      "fileName": "I Dont Wanna Be Free - Markiplier The Gregory Brothers.mp3"
+    },
+    {
+      "title": "I Got You I Feel Good   James Brown The Famous Flames (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/I%20Got%20You%20I%20Feel%20Good%20-%20James%20Brown%20The%20Famous%20Flames.mp3",
+      "localUrl": null,
+      "fileName": "I Got You I Feel Good - James Brown The Famous Flames.mp3"
+    },
+    {
+      "title": "I See a Dreamer   CG5 (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/I%20See%20a%20Dreamer%20-%20CG5.mp3",
+      "localUrl": null,
+      "fileName": "I See a Dreamer - CG5.mp3"
+    },
+    {
+      "title": "IDGAF with blackbear   BoyWithUke blackbear (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/IDGAF%20with%20blackbear%20-%20BoyWithUke%20blackbear.mp3",
+      "localUrl": null,
+      "fileName": "IDGAF with blackbear - BoyWithUke blackbear.mp3"
+    },
+    {
+      "title": "INDUSTRY BABY feat. Jack Harlow   Lil Nas XJack Harlow (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/INDUSTRY%20BABY%20feat.%20Jack%20Harlow%20-%20Lil%20Nas%20XJack%20Harlow.mp3",
+      "localUrl": null,
+      "fileName": "INDUSTRY BABY feat. Jack Harlow - Lil Nas XJack Harlow.mp3"
+    },
+    {
+      "title": "Im Something Else   SomeThingElseyt (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Im%20Something%20Else%20-%20SomeThingElseyt.mp3",
+      "localUrl": null,
+      "fileName": "Im Something Else - SomeThingElseyt.mp3"
+    },
+    {
+      "title": "Immortals   From Big Hero 6   Fall Out Boy (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Immortals%20-%20From%20Big%20Hero%206%20-%20Fall%20Out%20Boy.mp3",
+      "localUrl": null,
+      "fileName": "Immortals - From Big Hero 6 - Fall Out Boy.mp3"
+    },
+    {
+      "title": "Iron   Woodkid (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Iron%20-%20Woodkid.mp3",
+      "localUrl": null,
+      "fileName": "Iron - Woodkid.mp3"
+    },
+    {
+      "title": "Ive Got a Bone   Dan Bull (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Ive%20Got%20a%20Bone%20-%20Dan%20Bull.mp3",
+      "localUrl": null,
+      "fileName": "Ive Got a Bone - Dan Bull.mp3"
+    },
+    {
+      "title": "Ive Gotta Be Me   2016 Remaster   Sammy Davis Jr. (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Ive%20Gotta%20Be%20Me%20-%202016%20Remaster%20-%20Sammy%20Davis%20Jr..mp3",
+      "localUrl": null,
+      "fileName": "Ive Gotta Be Me - 2016 Remaster - Sammy Davis Jr..mp3"
+    },
+    {
+      "title": "Jetpack Joyride Main Theme   Halfbrick (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Jetpack%20Joyride%20Main%20Theme%20-%20Halfbrick.mp3",
+      "localUrl": null,
+      "fileName": "Jetpack Joyride Main Theme - Halfbrick.mp3"
+    },
+    {
+      "title": "Kill This Love   BLACKPINK (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Kill%20This%20Love%20-%20BLACKPINK.mp3",
+      "localUrl": null,
+      "fileName": "Kill This Love - BLACKPINK.mp3"
+    },
+    {
+      "title": "Legends   Juice WRLD (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Legends%20-%20Juice%20WRLD.mp3",
+      "localUrl": null,
+      "fileName": "Legends - Juice WRLD.mp3"
+    },
+    {
+      "title": "Levitating feat. DaBaby   Dua Lipa DaBaby (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Levitating%20feat.%20DaBaby%20-%20Dua%20Lipa%20DaBaby.mp3",
+      "localUrl": null,
+      "fileName": "Levitating feat. DaBaby - Dua Lipa DaBaby.mp3"
+    },
+    {
+      "title": "Life By The Sea   Tubbo CG5 (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Life%20By%20The%20Sea%20-%20Tubbo%20CG5.mp3",
+      "localUrl": null,
+      "fileName": "Life By The Sea - Tubbo CG5.mp3"
+    },
+    {
+      "title": "Life Is Fun   Boyinaband TheOdd1sOut (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Life%20Is%20Fun%20-%20Boyinaband%20TheOdd1sOut.mp3",
+      "localUrl": null,
+      "fileName": "Life Is Fun - Boyinaband TheOdd1sOut.mp3"
+    },
+    {
+      "title": "Lifelight From Super Smash Bros. Ultimate   Akano (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Lifelight%20From%20Super%20Smash%20Bros.%20Ultimate%20-%20Akano.mp3",
+      "localUrl": null,
+      "fileName": "Lifelight From Super Smash Bros. Ultimate - Akano.mp3"
+    },
+    {
+      "title": "Little Dark Age   MGMT (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Little%20Dark%20Age%20-%20MGMT.mp3",
+      "localUrl": null,
+      "fileName": "Little Dark Age - MGMT.mp3"
+    },
+    {
+      "title": "Loafers   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Loafers%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "Loafers - BoyWithUke.mp3"
+    },
+    {
+      "title": "Long Drives   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Long%20Drives%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "Long Drives - BoyWithUke.mp3"
+    },
+    {
+      "title": "Lost The Game   Two Feet (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Lost%20The%20Game%20-%20Two%20Feet.mp3",
+      "localUrl": null,
+      "fileName": "Lost The Game - Two Feet.mp3"
+    },
+    {
+      "title": "Lucid Dreams   Juice WRLD (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Lucid%20Dreams%20-%20Juice%20WRLD.mp3",
+      "localUrl": null,
+      "fileName": "Lucid Dreams - Juice WRLD.mp3"
+    },
+    {
+      "title": "MEGALOVANIA   Toby Fox (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/MEGALOVANIA%20-%20Toby%20Fox.mp3",
+      "localUrl": null,
+      "fileName": "MEGALOVANIA - Toby Fox.mp3"
+    },
+    {
+      "title": "Maps   Maroon 5 (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Maps%20-%20Maroon%205.mp3",
+      "localUrl": null,
+      "fileName": "Maps - Maroon 5.mp3"
+    },
+    {
+      "title": "Mask   Dream (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Mask%20-%20Dream.mp3",
+      "localUrl": null,
+      "fileName": "Mask - Dream.mp3"
+    },
+    {
+      "title": "Me And My Broken Heart   Rixton (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Me%20And%20My%20Broken%20Heart%20-%20Rixton.mp3",
+      "localUrl": null,
+      "fileName": "Me And My Broken Heart - Rixton.mp3"
+    },
+    {
+      "title": "Me Myself I   G EazyBebe Rexha (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Me%20Myself%20I%20-%20G-EazyBebe%20Rexha.mp3",
+      "localUrl": null,
+      "fileName": "Me Myself I - G-EazyBebe Rexha.mp3"
+    },
+    {
+      "title": "Mirrors   Justin Timberlake (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Mirrors%20-%20Justin%20Timberlake.mp3",
+      "localUrl": null,
+      "fileName": "Mirrors - Justin Timberlake.mp3"
+    },
+    {
+      "title": "Mood feat. iann dior   24kGoldniann dior (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Mood%20feat.%20iann%20dior%20-%2024kGoldniann%20dior.mp3",
+      "localUrl": null,
+      "fileName": "Mood feat. iann dior - 24kGoldniann dior.mp3"
+    },
+    {
+      "title": "Mr. Blue Sky   Electric Light Orchestra (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Mr.%20Blue%20Sky%20-%20Electric%20Light%20Orchestra.mp3",
+      "localUrl": null,
+      "fileName": "Mr. Blue Sky - Electric Light Orchestra.mp3"
+    },
+    {
+      "title": "Murders   Miracle Musical (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Murders%20-%20Miracle%20Musical.mp3",
+      "localUrl": null,
+      "fileName": "Murders - Miracle Musical.mp3"
+    },
+    {
+      "title": "Negro Y Azul The Ballad of Heisenberg From Breaking Bad TV Series   Los Cuates de Sinaloa (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Negro%20Y%20Azul%20The%20Ballad%20of%20Heisenberg%20From%20Breaking%20Bad%20TV%20Series%20-%20Los%20Cuates%20de%20Sinaloa.mp3",
+      "localUrl": null,
+      "fileName": "Negro Y Azul The Ballad of Heisenberg From Breaking Bad TV Series - Los Cuates de Sinaloa.mp3"
+    },
+    {
+      "title": "Nether Zombie Pigman Minecraft Rap   Dan Bull (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Nether%20Zombie%20Pigman%20Minecraft%20Rap%20-%20Dan%20Bull.mp3",
+      "localUrl": null,
+      "fileName": "Nether Zombie Pigman Minecraft Rap - Dan Bull.mp3"
+    },
+    {
+      "title": "Never Be Alone   Shadrow (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Never%20Be%20Alone%20-%20Shadrow.mp3",
+      "localUrl": null,
+      "fileName": "Never Be Alone - Shadrow.mp3"
+    },
+    {
+      "title": "Never Gonna Give You Up   Rick Astley (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Never%20Gonna%20Give%20You%20Up%20-%20Rick%20Astley.mp3",
+      "localUrl": null,
+      "fileName": "Never Gonna Give You Up - Rick Astley.mp3"
+    },
+    {
+      "title": "No Cigar   Brennan Story (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/No%20Cigar%20-%20Brennan%20Story.mp3",
+      "localUrl": null,
+      "fileName": "No Cigar - Brennan Story.mp3"
+    },
+    {
+      "title": "Noot Noot   CG5 (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Noot%20Noot%20-%20CG5.mp3",
+      "localUrl": null,
+      "fileName": "Noot Noot - CG5.mp3"
+    },
+    {
+      "title": "Notion   The Rare Occasions (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Notion%20-%20The%20Rare%20Occasions.mp3",
+      "localUrl": null,
+      "fileName": "Notion - The Rare Occasions.mp3"
+    },
+    {
+      "title": "Ooo La La   Rozei (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Ooo%20La%20La%20-%20Rozei.mp3",
+      "localUrl": null,
+      "fileName": "Ooo La La - Rozei.mp3"
+    },
+    {
+      "title": "Pain   PinkPantheress (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Pain%20-%20PinkPantheress.mp3",
+      "localUrl": null,
+      "fileName": "Pain - PinkPantheress.mp3"
+    },
+    {
+      "title": "Payphone   Maroon 5Wiz Khalifa (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Payphone%20-%20Maroon%205Wiz%20Khalifa.mp3",
+      "localUrl": null,
+      "fileName": "Payphone - Maroon 5Wiz Khalifa.mp3"
+    },
+    {
+      "title": "Pompeii   Bastille (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Pompeii%20-%20Bastille.mp3",
+      "localUrl": null,
+      "fileName": "Pompeii - Bastille.mp3"
+    },
+    {
+      "title": "Pompeii But If You Close Your Eyes   When Thieves Run (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Pompeii%20But%20If%20You%20Close%20Your%20Eyes%20-%20When%20Thieves%20Run.mp3",
+      "localUrl": null,
+      "fileName": "Pompeii But If You Close Your Eyes - When Thieves Run.mp3"
+    },
+    {
+      "title": "Portrait of a Blank Slate   Lovejoy (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Portrait%20of%20a%20Blank%20Slate%20-%20Lovejoy.mp3",
+      "localUrl": null,
+      "fileName": "Portrait of a Blank Slate - Lovejoy.mp3"
+    },
+    {
+      "title": "Pumped Up Kicks   Foster The People (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Pumped%20Up%20Kicks%20-%20Foster%20The%20People.mp3",
+      "localUrl": null,
+      "fileName": "Pumped Up Kicks - Foster The People.mp3"
+    },
+    {
+      "title": "Railroad Track   Willy Moon (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Railroad%20Track%20-%20Willy%20Moon.mp3",
+      "localUrl": null,
+      "fileName": "Railroad Track - Willy Moon.mp3"
+    },
+    {
+      "title": "Rain   Lee (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Rain%20-%20Lee.mp3",
+      "localUrl": null,
+      "fileName": "Rain - Lee.mp3"
+    },
+    {
+      "title": "Ransom with Juice WRLD   Remix   Lil TeccaJuice WRLD (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Ransom%20with%20Juice%20WRLD%20-%20Remix%20-%20Lil%20TeccaJuice%20WRLD.mp3",
+      "localUrl": null,
+      "fileName": "Ransom with Juice WRLD - Remix - Lil TeccaJuice WRLD.mp3"
+    },
+    {
+      "title": "Razormind   Starbreeze EntertainmentSimon Viklund (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Razormind%20-%20Starbreeze%20EntertainmentSimon%20Viklund.mp3",
+      "localUrl": null,
+      "fileName": "Razormind - Starbreeze EntertainmentSimon Viklund.mp3"
+    },
+    {
+      "title": "Red Right Hand   Peaky Blinders ThemeFlood Remix   Nick Cave The Bad Seeds Flood (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Red%20Right%20Hand%20-%20Peaky%20Blinders%20ThemeFlood%20Remix%20-%20Nick%20Cave%20The%20Bad%20Seeds%20Flood.mp3",
+      "localUrl": null,
+      "fileName": "Red Right Hand - Peaky Blinders ThemeFlood Remix - Nick Cave The Bad Seeds Flood.mp3"
+    },
+    {
+      "title": "Revenge   Captainsparklez Tryhardninja (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Revenge%20-%20Captainsparklez%20Tryhardninja.mp3",
+      "localUrl": null,
+      "fileName": "Revenge - Captainsparklez Tryhardninja.mp3"
+    },
+    {
+      "title": "Revenge   Remix   Tryhardninja Approaching Nirvana (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Revenge%20-%20Remix%20-%20Tryhardninja%20Approaching%20Nirvana.mp3",
+      "localUrl": null,
+      "fileName": "Revenge - Remix - Tryhardninja Approaching Nirvana.mp3"
+    },
+    {
+      "title": "Rewrite The Stars   James Arthur Anne Marie (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Rewrite%20The%20Stars%20-%20James%20Arthur%20Anne-Marie.mp3",
+      "localUrl": null,
+      "fileName": "Rewrite The Stars - James Arthur Anne-Marie.mp3"
+    },
+    {
+      "title": "Right Round   Flo RidaKesha (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Right%20Round%20-%20Flo%20RidaKesha.mp3",
+      "localUrl": null,
+      "fileName": "Right Round - Flo RidaKesha.mp3"
+    },
+    {
+      "title": "Rip Tear   Mick Gordon (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Rip%20Tear%20-%20Mick%20Gordon.mp3",
+      "localUrl": null,
+      "fileName": "Rip Tear - Mick Gordon.mp3"
+    },
+    {
+      "title": "Roadtrip   Dream PmBata (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Roadtrip%20-%20Dream%20PmBata.mp3",
+      "localUrl": null,
+      "fileName": "Roadtrip - Dream PmBata.mp3"
+    },
+    {
+      "title": "Rob A Bank   Confetti (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Rob%20A%20Bank%20-%20Confetti.mp3",
+      "localUrl": null,
+      "fileName": "Rob A Bank - Confetti.mp3"
+    },
+    {
+      "title": "Rondando Tu Esquina   Julio Jaramillo (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Rondando%20Tu%20Esquina%20-%20Julio%20Jaramillo.mp3",
+      "localUrl": null,
+      "fileName": "Rondando Tu Esquina - Julio Jaramillo.mp3"
+    },
+    {
+      "title": "Rush E   Sheet Music Boss (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Rush%20E%20-%20Sheet%20Music%20Boss.mp3",
+      "localUrl": null,
+      "fileName": "Rush E - Sheet Music Boss.mp3"
+    },
+    {
+      "title": "STAY with Justin Bieber   The Kid LAROI Justin Bieber (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/STAY%20with%20Justin%20Bieber%20-%20The%20Kid%20LAROI%20Justin%20Bieber.mp3",
+      "localUrl": null,
+      "fileName": "STAY with Justin Bieber - The Kid LAROI Justin Bieber.mp3"
+    },
+    {
+      "title": "SUBWAY SURFERS Main Theme   Subway Surfers (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/SUBWAY%20SURFERS%20Main%20Theme%20-%20Subway%20Surfers.mp3",
+      "localUrl": null,
+      "fileName": "SUBWAY SURFERS Main Theme - Subway Surfers.mp3"
+    },
+    {
+      "title": "Safe And Sound   Capital Cities (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Safe%20And%20Sound%20-%20Capital%20Cities.mp3",
+      "localUrl": null,
+      "fileName": "Safe And Sound - Capital Cities.mp3"
+    },
+    {
+      "title": "Sahara   Hensonn (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Sahara%20-%20Hensonn.mp3",
+      "localUrl": null,
+      "fileName": "Sahara - Hensonn.mp3"
+    },
+    {
+      "title": "See You Again feat. Charlie Puth   Wiz KhalifaCharlie Puth (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/See%20You%20Again%20feat.%20Charlie%20Puth%20-%20Wiz%20KhalifaCharlie%20Puth.mp3",
+      "localUrl": null,
+      "fileName": "See You Again feat. Charlie Puth - Wiz KhalifaCharlie Puth.mp3"
+    },
+    {
+      "title": "September   Earth Wind Fire (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/September%20-%20Earth%20Wind%20Fire.mp3",
+      "localUrl": null,
+      "fileName": "September - Earth Wind Fire.mp3"
+    },
+    {
+      "title": "Shape of You   Ed Sheeran (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Shape%20of%20You%20-%20Ed%20Sheeran.mp3",
+      "localUrl": null,
+      "fileName": "Shape of You - Ed Sheeran.mp3"
+    },
+    {
+      "title": "Sharks   Imagine Dragons (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Sharks%20-%20Imagine%20Dragons.mp3",
+      "localUrl": null,
+      "fileName": "Sharks - Imagine Dragons.mp3"
+    },
+    {
+      "title": "Side To Side   Ariana GrandeNicki Minaj (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Side%20To%20Side%20-%20Ariana%20GrandeNicki%20Minaj.mp3",
+      "localUrl": null,
+      "fileName": "Side To Side - Ariana GrandeNicki Minaj.mp3"
+    },
+    {
+      "title": "Solo   Prismo (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Solo%20-%20Prismo.mp3",
+      "localUrl": null,
+      "fileName": "Solo - Prismo.mp3"
+    },
+    {
+      "title": "Sports   Beach Bunny (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Sports%20-%20Beach%20Bunny.mp3",
+      "localUrl": null,
+      "fileName": "Sports - Beach Bunny.mp3"
+    },
+    {
+      "title": "Stay   iamjakehill (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Stay%20-%20iamjakehill.mp3",
+      "localUrl": null,
+      "fileName": "Stay - iamjakehill.mp3"
+    },
+    {
+      "title": "Stay Too Long   Pendulum Remix   Plan BPendulum (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Stay%20Too%20Long%20-%20Pendulum%20Remix%20-%20Plan%20BPendulum.mp3",
+      "localUrl": null,
+      "fileName": "Stay Too Long - Pendulum Remix - Plan BPendulum.mp3"
+    },
+    {
+      "title": "Stereo Hearts feat. Adam Levine   Gym Class HeroesAdam Levine (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Stereo%20Hearts%20feat.%20Adam%20Levine%20-%20Gym%20Class%20HeroesAdam%20Levine.mp3",
+      "localUrl": null,
+      "fileName": "Stereo Hearts feat. Adam Levine - Gym Class HeroesAdam Levine.mp3"
+    },
+    {
+      "title": "Stressed Out   Twenty One Pilots (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Stressed%20Out%20-%20Twenty%20One%20Pilots.mp3",
+      "localUrl": null,
+      "fileName": "Stressed Out - Twenty One Pilots.mp3"
+    },
+    {
+      "title": "SugarCrash   ElyOtto (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/SugarCrash%20-%20ElyOtto.mp3",
+      "localUrl": null,
+      "fileName": "SugarCrash - ElyOtto.mp3"
+    },
+    {
+      "title": "Sunflower   Spider Man Into the Spider Verse   Post MaloneSwae Lee (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Sunflower%20-%20Spider-Man%20Into%20the%20Spider-Verse%20-%20Post%20MaloneSwae%20Lee.mp3",
+      "localUrl": null,
+      "fileName": "Sunflower - Spider-Man Into the Spider-Verse - Post MaloneSwae Lee.mp3"
+    },
+    {
+      "title": "Super Smash Bros Brawl Drill Beat Life Aint Fair   Shae OT (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Super%20Smash%20Bros%20Brawl%20Drill%20Beat%20Life%20Aint%20Fair%20-%20Shae%20OT.mp3",
+      "localUrl": null,
+      "fileName": "Super Smash Bros Brawl Drill Beat Life Aint Fair - Shae OT.mp3"
+    },
+    {
+      "title": "Superheroes   The Script (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Superheroes%20-%20The%20Script.mp3",
+      "localUrl": null,
+      "fileName": "Superheroes - The Script.mp3"
+    },
+    {
+      "title": "Take on Me   a ha (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Take%20on%20Me%20-%20a-ha.mp3",
+      "localUrl": null,
+      "fileName": "Take on Me - a-ha.mp3"
+    },
+    {
+      "title": "Talking Body   Tove Lo (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Talking%20Body%20-%20Tove%20Lo.mp3",
+      "localUrl": null,
+      "fileName": "Talking Body - Tove Lo.mp3"
+    },
+    {
+      "title": "Temperature   Sean Paul (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Temperature%20-%20Sean%20Paul.mp3",
+      "localUrl": null,
+      "fileName": "Temperature - Sean Paul.mp3"
+    },
+    {
+      "title": "The Adults Are Talking   The Strokes (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/The%20Adults%20Are%20Talking%20-%20The%20Strokes.mp3",
+      "localUrl": null,
+      "fileName": "The Adults Are Talking - The Strokes.mp3"
+    },
+    {
+      "title": "The Arch Illager   Dan Bull (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/The%20Arch-Illager%20-%20Dan%20Bull.mp3",
+      "localUrl": null,
+      "fileName": "The Arch-Illager - Dan Bull.mp3"
+    },
+    {
+      "title": "The Chain   Fleetwood Mac (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/The%20Chain%20-%20Fleetwood%20Mac.mp3",
+      "localUrl": null,
+      "fileName": "The Chain - Fleetwood Mac.mp3"
+    },
+    {
+      "title": "The Lazy Song   Bruno Mars (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/The%20Lazy%20Song%20-%20Bruno%20Mars.mp3",
+      "localUrl": null,
+      "fileName": "The Lazy Song - Bruno Mars.mp3"
+    },
+    {
+      "title": "The Mystic   Adam Jensen (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/The%20Mystic%20-%20Adam%20Jensen.mp3",
+      "localUrl": null,
+      "fileName": "The Mystic - Adam Jensen.mp3"
+    },
+    {
+      "title": "The Nights   Avicii (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/The%20Nights%20-%20Avicii.mp3",
+      "localUrl": null,
+      "fileName": "The Nights - Avicii.mp3"
+    },
+    {
+      "title": "The Search   Edit   NF (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/The%20Search%20-%20Edit%20-%20NF.mp3",
+      "localUrl": null,
+      "fileName": "The Search - Edit - NF.mp3"
+    },
+    {
+      "title": "The Search   NF (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/The%20Search%20-%20NF.mp3",
+      "localUrl": null,
+      "fileName": "The Search - NF.mp3"
+    },
+    {
+      "title": "The Way Life Goes feat. Oh Wonder   Lil Uzi VertOh Wonder (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/The%20Way%20Life%20Goes%20feat.%20Oh%20Wonder%20-%20Lil%20Uzi%20VertOh%20Wonder.mp3",
+      "localUrl": null,
+      "fileName": "The Way Life Goes feat. Oh Wonder - Lil Uzi VertOh Wonder.mp3"
+    },
+    {
+      "title": "Therefore I Am   Billie Eilish (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Therefore%20I%20Am%20-%20Billie%20Eilish.mp3",
+      "localUrl": null,
+      "fileName": "Therefore I Am - Billie Eilish.mp3"
+    },
+    {
+      "title": "This Feeling   The ChainsmokersKelsea Ballerini (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/This%20Feeling%20-%20The%20ChainsmokersKelsea%20Ballerini.mp3",
+      "localUrl": null,
+      "fileName": "This Feeling - The ChainsmokersKelsea Ballerini.mp3"
+    },
+    {
+      "title": "Time in a Bottle   Jim Croce (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Time%20in%20a%20Bottle%20-%20Jim%20Croce.mp3",
+      "localUrl": null,
+      "fileName": "Time in a Bottle - Jim Croce.mp3"
+    },
+    {
+      "title": "To the Bone   JT Music (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/To%20the%20Bone%20-%20JT%20Music.mp3",
+      "localUrl": null,
+      "fileName": "To the Bone - JT Music.mp3"
+    },
+    {
+      "title": "Tokyo Drift Fast Furious   From The Fast And The Furious Tokyo Drift Soundtrack   Teriyaki Boyz (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Tokyo%20Drift%20Fast%20Furious%20-%20From%20The%20Fast%20And%20The%20Furious%20Tokyo%20Drift%20Soundtrack%20-%20Teriyaki%20Boyz.mp3",
+      "localUrl": null,
+      "fileName": "Tokyo Drift Fast Furious - From The Fast And The Furious Tokyo Drift Soundtrack - Teriyaki Boyz.mp3"
+    },
+    {
+      "title": "Tous les mmes   Stromae (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Tous%20les%20mmes%20-%20Stromae.mp3",
+      "localUrl": null,
+      "fileName": "Tous les mmes - Stromae.mp3"
+    },
+    {
+      "title": "Toxic   BoyWithUke (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Toxic%20-%20BoyWithUke.mp3",
+      "localUrl": null,
+      "fileName": "Toxic - BoyWithUke.mp3"
+    },
+    {
+      "title": "Trance Music for Racing Game   Bobby Cole (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Trance%20Music%20for%20Racing%20Game%20-%20Bobby%20Cole.mp3",
+      "localUrl": null,
+      "fileName": "Trance Music for Racing Game - Bobby Cole.mp3"
+    },
+    {
+      "title": "Trap Anthem   MC Virgins Yun Head (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Trap%20Anthem%20-%20MC%20Virgins%20Yun%20Head.mp3",
+      "localUrl": null,
+      "fileName": "Trap Anthem - MC Virgins Yun Head.mp3"
+    },
+    {
+      "title": "Unknown   Molchat Doma (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Unknown%20-%20Molchat%20Doma.mp3",
+      "localUrl": null,
+      "fileName": "Unknown - Molchat Doma.mp3"
+    },
+    {
+      "title": "Virginity Syndrome   ovg (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Virginity%20Syndrome%20-%20ovg.mp3",
+      "localUrl": null,
+      "fileName": "Virginity Syndrome - ovg.mp3"
+    },
+    {
+      "title": "Waiting For Love   Avicii (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Waiting%20For%20Love%20-%20Avicii.mp3",
+      "localUrl": null,
+      "fileName": "Waiting For Love - Avicii.mp3"
+    },
+    {
+      "title": "Waka Waka This Time for Africa The Official 2010 FIFA World Cup TM Song feat. Freshlyground   Shakira Freshlyground (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Waka%20Waka%20This%20Time%20for%20Africa%20The%20Official%202010%20FIFA%20World%20Cup%20TM%20Song%20feat.%20Freshlyground%20-%20Shakira%20Freshlyground.mp3",
+      "localUrl": null,
+      "fileName": "Waka Waka This Time for Africa The Official 2010 FIFA World Cup TM Song feat. Freshlyground - Shakira Freshlyground.mp3"
+    },
+    {
+      "title": "Wake Me Up   Avicii (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Wake%20Me%20Up%20-%20Avicii.mp3",
+      "localUrl": null,
+      "fileName": "Wake Me Up - Avicii.mp3"
+    },
+    {
+      "title": "We Are Young feat. Janelle Mone   fun. Janelle Mone (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/We%20Are%20Young%20feat.%20Janelle%20Mone%20-%20fun.%20Janelle%20Mone.mp3",
+      "localUrl": null,
+      "fileName": "We Are Young feat. Janelle Mone - fun. Janelle Mone.mp3"
+    },
+    {
+      "title": "We Will Rock You   Remastered 2011   Queen (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/We%20Will%20Rock%20You%20-%20Remastered%202011%20-%20Queen.mp3",
+      "localUrl": null,
+      "fileName": "We Will Rock You - Remastered 2011 - Queen.mp3"
+    },
+    {
+      "title": "Welcome to The Internet   Bo Burnham (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Welcome%20to%20The%20Internet%20-%20Bo%20Burnham.mp3",
+      "localUrl": null,
+      "fileName": "Welcome to The Internet - Bo Burnham.mp3"
+    },
+    {
+      "title": "Wellerman   Sea Shanty   Nathan Evans (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Wellerman%20-%20Sea%20Shanty%20-%20Nathan%20Evans.mp3",
+      "localUrl": null,
+      "fileName": "Wellerman - Sea Shanty - Nathan Evans.mp3"
+    },
+    {
+      "title": "When I Was Your Man   Bruno Mars (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/When%20I%20Was%20Your%20Man%20-%20Bruno%20Mars.mp3",
+      "localUrl": null,
+      "fileName": "When I Was Your Man - Bruno Mars.mp3"
+    },
+    {
+      "title": "Wild Ones feat. Sia   Flo RidaSia (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Wild%20Ones%20feat.%20Sia%20-%20Flo%20RidaSia.mp3",
+      "localUrl": null,
+      "fileName": "Wild Ones feat. Sia - Flo RidaSia.mp3"
+    },
+    {
+      "title": "Worlds Smallest Violin   AJR (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Worlds%20Smallest%20Violin%20-%20AJR.mp3",
+      "localUrl": null,
+      "fileName": "Worlds Smallest Violin - AJR.mp3"
+    },
+    {
+      "title": "XXXKIRBY   SoftwillyYung KageYumi (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/XXXKIRBY%20-%20SoftwillyYung%20KageYumi.mp3",
+      "localUrl": null,
+      "fileName": "XXXKIRBY - SoftwillyYung KageYumi.mp3"
+    },
+    {
+      "title": "Young Dumb Broke   Khalid (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Young%20Dumb%20Broke%20-%20Khalid.mp3",
+      "localUrl": null,
+      "fileName": "Young Dumb Broke - Khalid.mp3"
+    },
+    {
+      "title": "Youngblood   5 Seconds of Summer (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Youngblood%20-%205%20Seconds%20of%20Summer.mp3",
+      "localUrl": null,
+      "fileName": "Youngblood - 5 Seconds of Summer.mp3"
+    },
+    {
+      "title": "Youre Special   Fallout 4 Song   Dan Bull (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/Youre%20Special%20-%20Fallout%204%20Song%20-%20Dan%20Bull.mp3",
+      "localUrl": null,
+      "fileName": "Youre Special - Fallout 4 Song - Dan Bull.mp3"
+    },
+    {
+      "title": "agoraphobic   CORPSE (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/agoraphobic%20-%20CORPSE.mp3",
+      "localUrl": null,
+      "fileName": "agoraphobic - CORPSE.mp3"
+    },
+    {
+      "title": "bad guy   Billie Eilish (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/bad%20guy%20-%20Billie%20Eilish.mp3",
+      "localUrl": null,
+      "fileName": "bad guy - Billie Eilish.mp3"
+    },
+    {
+      "title": "death bed coffee for your head   Powfubeabadoobee (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/death%20bed%20coffee%20for%20your%20head%20-%20Powfubeabadoobee.mp3",
+      "localUrl": null,
+      "fileName": "death bed coffee for your head - Powfubeabadoobee.mp3"
+    },
+    {
+      "title": "drivers license   Olivia Rodrigo (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/drivers%20license%20-%20Olivia%20Rodrigo.mp3",
+      "localUrl": null,
+      "fileName": "drivers license - Olivia Rodrigo.mp3"
+    },
+    {
+      "title": "everything sucks   vaultboy (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/everything%20sucks%20-%20vaultboy.mp3",
+      "localUrl": null,
+      "fileName": "everything sucks - vaultboy.mp3"
+    },
+    {
+      "title": "fuck im lonely   LAUVAnne Marie (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/fuck%20im%20lonely%20-%20LAUVAnne-Marie.mp3",
+      "localUrl": null,
+      "fileName": "fuck im lonely - LAUVAnne-Marie.mp3"
+    },
+    {
+      "title": "hey   Spotify Singles   Unusual Demont (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/hey%20-%20Spotify%20Singles%20-%20Unusual%20Demont.mp3",
+      "localUrl": null,
+      "fileName": "hey - Spotify Singles - Unusual Demont.mp3"
+    },
+    {
+      "title": "hot girl bummer   blackbear (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/hot%20girl%20bummer%20-%20blackbear.mp3",
+      "localUrl": null,
+      "fileName": "hot girl bummer - blackbear.mp3"
+    },
+    {
+      "title": "otherside   Lena Raine Minecraft (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/otherside%20-%20Lena%20Raine%20Minecraft.mp3",
+      "localUrl": null,
+      "fileName": "otherside - Lena Raine Minecraft.mp3"
+    },
+    {
+      "title": "queen of broken hearts   blackbear (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/queen%20of%20broken%20hearts%20-%20blackbear.mp3",
+      "localUrl": null,
+      "fileName": "queen of broken hearts - blackbear.mp3"
+    },
+    {
+      "title": "sans.   Toby Fox (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/sans.%20-%20Toby%20Fox.mp3",
+      "localUrl": null,
+      "fileName": "sans. - Toby Fox.mp3"
+    },
+    {
+      "title": "subway surfers drill   javveyprod (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/subway%20surfers%20drill%20-%20javveyprod.mp3",
+      "localUrl": null,
+      "fileName": "subway surfers drill - javveyprod.mp3"
+    },
+    {
+      "title": "why did the chicken cross the road   CG5 (Cloud)",
+      "url": "https://sydspotifystorage.blob.core.windows.net/songs/Syd/Bedwars/why%20did%20the%20chicken%20cross%20the%20road%20-%20CG5.mp3",
+      "localUrl": null,
+      "fileName": "why did the chicken cross the road - CG5.mp3"
     }
   ]
 }
